@@ -1,0 +1,147 @@
+{
+  "_note": "PLACEHOLDER: edit seo and ui labels.",
+  "seo": {
+    "title": {
+      "en": "Portfolio — Anas Ashraf",
+      "de": "Portfolio — Anas Ashraf",
+      "ar": "الملف المهني — أنس أشرف"
+    }
+  },
+  "nav": [
+    "home",
+    "about",
+    "academic",
+    "activities",
+    "certs",
+    "projects",
+    "training",
+    "experience",
+    "skills",
+    "soft",
+    "languages",
+    "statement",
+    "faq",
+    "contact"
+  ],
+  "ui": {
+    "home": {
+      "en": "Home",
+      "de": "Startseite",
+      "ar": "الرئيسية"
+    },
+    "about": {
+      "en": "About Me",
+      "de": "Über mich",
+      "ar": "نبذة عني"
+    },
+    "academic": {
+      "en": "Academic Journey",
+      "de": "Akademischer Werdegang",
+      "ar": "المسيرة الأكاديمية"
+    },
+    "activities": {
+      "en": "Activities & Conferences",
+      "de": "Aktivitäten & Konferenzen",
+      "ar": "الأنشطة والمؤتمرات"
+    },
+    "certs": {
+      "en": "Achievements & Certifications",
+      "de": "Erfolge & Zertifizierungen",
+      "ar": "الإنجازات والشهادات"
+    },
+    "projects": {
+      "en": "Projects",
+      "de": "Projekte",
+      "ar": "المشاريع"
+    },
+    "training": {
+      "en": "Practical Training",
+      "de": "Praktische Ausbildung",
+      "ar": "التدريب العملي"
+    },
+    "experience": {
+      "en": "Professional Experience",
+      "de": "Berufserfahrung",
+      "ar": "الخبرة المهنية"
+    },
+    "skills": {
+      "en": "Technical Skills",
+      "de": "Technische Fähigkeiten",
+      "ar": "المهارات التقنية"
+    },
+    "soft": {
+      "en": "Soft Skills",
+      "de": "Soft Skills",
+      "ar": "المهارات الشخصية"
+    },
+    "languages": {
+      "en": "Languages",
+      "de": "Sprachen",
+      "ar": "اللغات"
+    },
+    "statement": {
+      "en": "Personal Statement",
+      "de": "Persönliche Erklärung",
+      "ar": "الرؤية الشخصية"
+    },
+    "faq": {
+      "en": "FAQ",
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة"
+    },
+    "contact": {
+      "en": "Contact Me",
+      "de": "Kontaktieren Sie mich",
+      "ar": "تواصل معي"
+    },
+    "more": {
+      "en": "Show details",
+      "de": "Details anzeigen",
+      "ar": "عرض التفاصيل"
+    },
+    "uni": {
+      "en": "University Activities",
+      "de": "Universitätsaktivitäten",
+      "ar": "الأنشطة الجامعية"
+    },
+    "events": {
+      "en": "Events",
+      "de": "Veranstaltungen",
+      "ar": "الفعاليات"
+    },
+    "confs": {
+      "en": "Conferences & Professional Exposure",
+      "de": "Konferenzen & Professionelle Kontakte",
+      "ar": "المؤتمرات والتعرّف المهني"
+    },
+    "enterprise": {
+      "en": "Enterprise Projects",
+      "de": "Unternehmensprojekte",
+      "ar": "مشاريع المؤسسات"
+    },
+    "subjects": {
+      "en": "Academic Subjects",
+      "de": "Akademische Fächer",
+      "ar": "المواد الأكاديمية"
+    },
+    "show": {
+      "en": "Show",
+      "de": "Anzeigen",
+      "ar": "عرض"
+    },
+    "hide": {
+      "en": "Hide",
+      "de": "Ausblenden",
+      "ar": "إخفاء"
+    },
+    "top": {
+      "en": "Back to top",
+      "de": "Nach oben",
+      "ar": "للأعلى"
+    },
+    "authenticity": {
+      "en": "All photographs displayed on this website are authentic and document real personal experiences, activities, and professional engagements. Photographs personally captured by Anas Ashraf are his own work.",
+      "de": "Alle auf dieser Website gezeigten Fotografien sind authentisch und dokumentieren echte persönliche Erlebnisse, Aktivitäten und berufliche Engagements. Die von Anas Ashraf persönlich aufgenommenen Fotografien sind sein eigenes Werk."
+    }
+  }
+}

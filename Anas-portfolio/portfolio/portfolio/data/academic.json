@@ -1,0 +1,139 @@
+{
+  "image": "assets/images/academic/B494EB5A-28B5-438F-B114-A6D7D18BAF4F.JPEG",
+  "items": [
+    {
+      "id": "academic-01",
+      "title": {
+        "en": "BSc in Networks and Cybersecurity",
+        "de": "BSc in Netzwerke und Cybersicherheit",
+        "ar": "بكالوريوس في الشبكات والأمن السيبراني"
+      },
+      "org": {
+        "en": "The Open University (UK) in partnership with Arab Open University",
+        "de": "The Open University (UK) in Partnerschaft mit der Arab Open University",
+        "ar": "جامعة The Open University البريطانية بالشراكة مع الجامعة العربية المفتوحة"
+      },
+      "date": {
+        "en": "2022 – 2025",
+        "de": "2022 – 2025",
+        "ar": "2022 – 2025"
+      },
+      "description": {
+        "en": "British academic program combining theoretical foundations with practical applications, covering computing, networks, and information security. Completed in 3 years through intensive study (overloading) instead of the standard 4 years. Classification: Second Class Honours – Second Division (2:2).",
+        "de": "Britisches akademisches Programm, das theoretische Grundlagen mit praktischen Anwendungen verbindet und Computing, Netzwerke und Informationssicherheit abdeckt. In 3 Jahren durch intensives Studium (Überlastung) statt der üblichen 4 Jahre abgeschlossen. Klassifikation: Second Class Honours – Second Division (2:2).",
+        "ar": "برنامج أكاديمي بريطاني يجمع بين الأسس النظرية والتطبيقات العملية، ويغطي مجالات الحوسبة والشبكات وأمن المعلومات. أتممت الدراسة في 3 سنوات من خلال نظام الدراسة المكثفة بدلاً من 4 سنوات. التقدير: Second Class Honours – Second Division (2:2)."
+      },
+      "subjects": [
+        {
+          "name": {
+            "en": "Mathematics",
+            "de": "Mathematik",
+            "ar": "الرياضيات"
+          },
+          "description": {
+            "en": "Discrete Mathematics, Algebra, Calculus",
+            "de": "Diskrete Mathematik, Algebra, Analysis",
+            "ar": "الرياضيات المتقطعة، الجبر، التفاضل والتكامل"
+          }
+        },
+        {
+          "name": {
+            "en": "Python Programming",
+            "de": "Python-Programmierung",
+            "ar": "برمجة بايثون"
+          },
+          "description": {
+            "en": "Programming fundamentals using Python",
+            "de": "Programmiergrundlagen mit Python",
+            "ar": "أساسيات البرمجة باستخدام لغة Python"
+          }
+        },
+        {
+          "name": {
+            "en": "Operating Systems",
+            "de": "Betriebssysteme",
+            "ar": "أنظمة التشغيل"
+          },
+          "description": {
+            "en": "Operating system principles and administration",
+            "de": "Prinzipien und Verwaltung von Betriebssystemen",
+            "ar": "مبادئ أنظمة التشغيل وإدارتها"
+          }
+        },
+        {
+          "name": {
+            "en": "Web Development",
+            "de": "Webentwicklung",
+            "ar": "تطوير الويب"
+          },
+          "description": {
+            "en": "Website development and design fundamentals",
+            "de": "Grundlagen der Website-Entwicklung und -Gestaltung",
+            "ar": "أساسيات تطوير وتصميم المواقع الإلكترونية"
+          }
+        },
+        {
+          "name": {
+            "en": "CCNA",
+            "de": "CCNA",
+            "ar": "CCNA"
+          },
+          "description": {
+            "en": "Network fundamentals and management (Cisco curriculum, obtained CCNA certification)",
+            "de": "Netzwerkgrundlagen und -verwaltung (Cisco-Lehrplan, CCNA-Zertifizierung erworben)",
+            "ar": "أساسيات الشبكات وإدارتها (منهج Cisco، حصلت على شهادة CCNA)"
+          }
+        },
+        {
+          "name": {
+            "en": "Cybersecurity Fundamentals",
+            "de": "Cybersicherheitsgrundlagen",
+            "ar": "أساسيات الأمن السيبراني"
+          },
+          "description": {
+            "en": "Cybersecurity principles and system protection",
+            "de": "Prinzipien der Cybersicherheit und Systemsicherheit",
+            "ar": "مبادئ الأمن السيبراني وحماية الأنظمة"
+          }
+        },
+        {
+          "name": {
+            "en": "Information Security",
+            "de": "Informationssicherheit",
+            "ar": "أمن المعلومات"
+          },
+          "description": {
+            "en": "CIA Triad, Risk Assessment, GRC, ISO 27001, ISMS",
+            "de": "CIA-Triad, Risikobewertung, GRC, ISO 27001, ISMS",
+            "ar": "السرية والسلامة والتوافر، تقييم المخاطر، الحوكمة، ISO 27001، ISMS"
+          }
+        },
+        {
+          "name": {
+            "en": "System Penetration Testing",
+            "de": "System-Penetrationstests",
+            "ar": "اختبار اختراق الأنظمة"
+          },
+          "description": {
+            "en": "Penetration testing knowledge (CEH preparation, obtained course attendance certificate)",
+            "de": "Wissen über Penetrationstests (CEH-Vorbereitung, Kursbescheinigung erworben)",
+            "ar": "معرفة اختبار الاختراق (التحضير لشهادة CEH، حصلت على شهادة حضور المقرر)"
+          }
+        },
+        {
+          "name": {
+            "en": "Network Security",
+            "de": "Netzwerksicherheit",
+            "ar": "أمن الشبكات"
+          },
+          "description": {
+            "en": "Network security techniques, GPO, Firewalls, SIEM, Cryptography",
+            "de": "Netzwerksicherheitstechniken, GPO, Firewalls, SIEM, Kryptographie",
+            "ar": "تقنيات تأمين الشبكات، GPO، الجدران النارية، SIEM، التشفير"
+          }
+        }
+      ],
+      "image": "assets/images/academic/B494EB5A-28B5-438F-B114-A6D7D18BAF4F.JPEG"
+    }
+  ]
+}

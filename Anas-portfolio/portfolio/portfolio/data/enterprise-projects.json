@@ -1,0 +1,167 @@
+{
+  "items": [
+    {
+      "id": "enterprise-project-01",
+      "title": {
+        "en": "Enterprise Network Transformation",
+        "de": "Unternehmensnetzwerk-Transformation",
+        "ar": "تحويل الشبكة المؤسسية"
+      },
+      "description": {
+        "en": "Contributed to developing and reorganizing the network infrastructure within the company, transitioning from a limited network environment to a more organized and professional enterprise architecture.",
+        "de": "Zur Entwicklung und Umorganisation der Netzwerkinfrastruktur im Unternehmen beigetragen, Übergang von einer begrenzten Netzwerkumgebung zu einer organisierteren und professionelleren Unternehmensarchitektur.",
+        "ar": "المساهمة في تطوير وإعادة تنظيم البنية التحتية للشبكة داخل الشركة، بهدف الانتقال من بيئة شبكية محدودة إلى بنية مؤسسية أكثر تنظيمًا واحترافية."
+      },
+      "image": "assets/images/experience/projects/pro 1.JPEG",
+      "company": {
+        "en": "ACES Contact Center",
+        "de": "ACES Contact Center",
+        "ar": "ACES Contact Center"
+      },
+      "role": {
+        "en": "Network Infrastructure Engineer",
+        "de": "Netzwerkinfrastruktur-Ingenieur",
+        "ar": "مهندس بنية تحتية للشبكات"
+      },
+      "details": [
+        {
+          "en": "Contributed to integrating approximately 80 employees from various departments into a unified network environment",
+          "de": "Zur Integration von etwa 80 Mitarbeitern aus verschiedenen Abteilungen in eine einheitliche Netzwerkumgebung beigetragen",
+          "ar": "المساهمة في دمج ما يقارب 80 موظفًا من مختلف الإدارات ضمن بيئة شبكية موحدة"
+        },
+        {
+          "en": "Participated in setting up and organizing Active Directory Domain",
+          "de": "An der Einrichtung und Organisation der Active Directory Domain teilgenommen",
+          "ar": "المشاركة في إعداد وتنظيم Active Directory Domain"
+        },
+        {
+          "en": "Designed and configured Group Policy Objects (GPOs) for user and device management and policy application",
+          "de": "Group Policy Objects (GPOs) für Benutzer- und Geräteverwaltung und Richtlinienanwendung entworfen und konfiguriert",
+          "ar": "تصميم وإعداد Group Policy Objects (GPOs) لإدارة المستخدمين والأجهزة وتطبيق السياسات"
+        },
+        {
+          "en": "Configured VLANs to organize the network, isolate departments, and improve management",
+          "de": "VLANs konfiguriert, um das Netzwerk zu organisieren, Abteilungen zu isolieren und die Verwaltung zu verbessern",
+          "ar": "إعداد VLANs لتنظيم الشبكة وعزل الأقسام وتحسين إدارتها"
+        },
+        {
+          "en": "Contributed to implementing Network Security policies and enhancing access control",
+          "de": "Zur Implementierung von Netzwerksicherheitsrichtlinien und zur Verbesserung der Zugriffskontrolle beigetragen",
+          "ar": "المساهمة في تطبيق سياسات Network Security وتعزيز التحكم في الوصول"
+        },
+        {
+          "en": "Built a more organized and manageable IT environment with improved user and device control",
+          "de": "Eine organisiertere und verwaltbare IT-Umgebung mit verbesserter Benutzer- und Gerätekontrolle aufgebaut",
+          "ar": "المساهمة في بناء بيئة IT أكثر تنظيمًا وقابلية للإدارة، مع تحسين التحكم في المستخدمين والأجهزة"
+        }
+      ],
+      "tags": [
+        {
+          "en": "Active Directory",
+          "de": "Active Directory",
+          "ar": "Active Directory"
+        },
+        {
+          "en": "Group Policy",
+          "de": "Gruppenrichtlinie",
+          "ar": "Group Policy"
+        },
+        {
+          "en": "VLANs",
+          "de": "VLANs",
+          "ar": "VLANs"
+        },
+        {
+          "en": "Network Security",
+          "de": "Netzwerksicherheit",
+          "ar": "أمن الشبكات"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "enterprise-project-02",
+      "title": {
+        "en": "Multi-Site Infrastructure & Security Deployment",
+        "de": "Multi-Standort-Infrastruktur- & Sicherheitsbereitstellung",
+        "ar": "نشر البنية التحتية والأمن متعدد المواقع"
+      },
+      "description": {
+        "en": "Participated in developing and connecting the technical infrastructure between the company's locations in Egypt and Dubai, through reorganizing the internal network and securing connections between sites.",
+        "de": "An der Entwicklung und Verbindung der technischen Infrastruktur zwischen den Unternehmensstandorten in Ägypten und Dubai teilgenommen, durch Umorganisation des internen Netzwerks und Sicherung der Verbindungen zwischen den Standorten.",
+        "ar": "المشاركة في تطوير وربط البنية التحتية التقنية بين موقعي الشركة في مصر ودبي، من خلال إعادة تنظيم الشبكة الداخلية وتعزيز أمن الاتصال بين الموقعين."
+      },
+      "image": "assets/images/experience/projects/pro 2.JPG",
+      "company": {
+        "en": "Ocean Air Travel",
+        "de": "Ocean Air Travel",
+        "ar": "Ocean Air Travel"
+      },
+      "role": {
+        "en": "Infrastructure & Security Engineer",
+        "de": "Infrastruktur- & Sicherheitsingenieur",
+        "ar": "مهندس بنية تحتية وأمن"
+      },
+      "details": [
+        {
+          "en": "Participated in restructuring and organizing the internal network infrastructure",
+          "de": "An der Umstrukturierung und Organisation der internen Netzwerkinfrastruktur teilgenommen",
+          "ar": "المشاركة في إعادة هيكلة وتنظيم البنية التحتية للشبكة الداخلية"
+        },
+        {
+          "en": "Contributed to installing and configuring Firewall and implementing security policies",
+          "de": "Zur Installation und Konfiguration der Firewall und Implementierung von Sicherheitsrichtlinien beigetragen",
+          "ar": "المساهمة في تركيب وإعداد Firewall وتطبيق سياسات الحماية"
+        },
+        {
+          "en": "Worked on creating and securing Site-to-Site VPN connection between Egypt and Dubai",
+          "de": "An der Erstellung und Sicherung der Site-to-Site-VPN-Verbindung zwischen Ägypten und Dubai gearbeitet",
+          "ar": "العمل على إنشاء وتأمين اتصال Site-to-Site VPN بين مصر ودبي"
+        },
+        {
+          "en": "Responsible for connecting and configuring VoIP system between the two locations",
+          "de": "Verantwortlich für die Verbindung und Konfiguration des VoIP-Systems zwischen den beiden Standorten",
+          "ar": "تولي مسؤولية ربط وتهيئة نظام VoIP بين الموقعين"
+        },
+        {
+          "en": "Worked on securing the communications environment and internet-connected systems",
+          "de": "An der Sicherung der Kommunikationsumgebung und internetverbundenen Systeme gearbeitet",
+          "ar": "العمل على تأمين بيئة الاتصالات والأنظمة المتصلة بالإنترنت"
+        },
+        {
+          "en": "Resolved connectivity issues and ensured service stability between locations",
+          "de": "Verbindungsprobleme gelöst und Service-Stabilität zwischen den Standorten gewährleistet",
+          "ar": "معالجة مشكلات الاتصال وضمان استقرار الخدمات بين الموقعين"
+        },
+        {
+          "en": "Gained practical experience in managing multi-site infrastructure and connecting networks",
+          "de": "Praktische Erfahrung in der Verwaltung von Multi-Standort-Infrastruktur und Verbindung von Netzwerken gewonnen",
+          "ar": "اكتساب خبرة عملية في إدارة البنية التحتية متعددة المواقع وربط الشبكات"
+        }
+      ],
+      "tags": [
+        {
+          "en": "Site-to-Site VPN",
+          "de": "Site-to-Site VPN",
+          "ar": "Site-to-Site VPN"
+        },
+        {
+          "en": "Firewall",
+          "de": "Firewall",
+          "ar": "Firewall"
+        },
+        {
+          "en": "VoIP",
+          "de": "VoIP",
+          "ar": "VoIP"
+        },
+        {
+          "en": "Multi-Site Infrastructure",
+          "de": "Multi-Standort-Infrastruktur",
+          "ar": "البنية التحتية متعددة المواقع"
+        }
+      ],
+      "links": []
+    }
+  ]
+}

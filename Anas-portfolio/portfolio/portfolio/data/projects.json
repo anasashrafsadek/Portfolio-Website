@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "id": "project-01",
+      "title": {
+        "en": "Domain Security Scanner",
+        "de": "Domain-Sicherheitsscanner",
+        "ar": "أداة فحص أمن النطاقات"
+      },
+      "description": {
+        "en": "Graduation project - an integrated tool for scanning the security status of domains on the internet through a set of scanning and analysis operations. The tool aims to provide a security assessment with approximately 95% accuracy, explaining discovered risks and providing improvement recommendations.",
+        "de": "Abschlussprojekt - ein integriertes Tool zum Scannen des Sicherheitsstatus von Domains im Internet durch eine Reihe von Scan- und Analyseoperationen. Das Tool zielt darauf ab, eine Sicherheitsbewertung mit etwa 95% Genauigkeit zu liefern, entdeckte Risiken zu erklären und Verbesserungsempfehlungen zu geben.",
+        "ar": "مشروع تخرجي - تطوير أداة متكاملة لفحص الوضع الأمني للنطاقات على الإنترنت، من خلال مجموعة من عمليات الفحص والتحليل. تستهدف الأداة تقديم تقييم أمني شامل بدقة تصل إلى نحو 95%، مع توضيح المخاطر المكتشفة وتقديم توصيات للتحسين."
+      },
+      "image": "assets/images/projects/01 Project.PNG",
+      "category": {
+        "en": "Cybersecurity",
+        "de": "Cybersicherheit",
+        "ar": "الأمن السيبراني"
+      },
+      "tags": [
+        {
+          "en": "Subdomain Enumeration",
+          "de": "Subdomain-Enumeration",
+          "ar": "تعداد النطاقات الفرعية"
+        },
+        {
+          "en": "OSINT",
+          "de": "OSINT",
+          "ar": "OSINT"
+        },
+        {
+          "en": "Network Scanning",
+          "de": "Netzwerk-Scanning",
+          "ar": "فحص الشبكات"
+        },
+        {
+          "en": "AI Analysis",
+          "de": "KI-Analyse",
+          "ar": "التحليل بالذكاء الاصطناعي"
+        }
+      ],
+      "details": [
+        {
+          "en": "Subdomain enumeration and analysis",
+          "de": "Subdomain-Enumeration und -Analyse",
+          "ar": "جمع وتحليل النطاقات الفرعية"
+        },
+        {
+          "en": "OSINT - gathering company information and digital footprint",
+          "de": "OSINT - Sammlung von Unternehmensinformationen und digitaler Fußabdruck",
+          "ar": "جمع معلومات الشركة والبصمة الرقمية المتاحة على الإنترنت"
+        },
+        {
+          "en": "Network and server scanning for the domain",
+          "de": "Netzwerk- und Server-Scanning für die Domain",
+          "ar": "فحص الشبكة والخوادم المرتبطة بالنطاق"
+        },
+        {
+          "en": "Analysis of scan results and comprehensive security assessment",
+          "de": "Analyse der Scan-Ergebnisse und umfassende Sicherheitsbewertung",
+          "ar": "تحليل نتائج الفحص وتقديم تقييم أمني شامل"
+        },
+        {
+          "en": "AI integration for automated report generation with risk explanations and recommendations",
+          "de": "KI-Integration für automatisierte Berichtserstellung mit Risikoerklärungen und Empfehlungen",
+          "ar": "دمج الذكاء الاصطناعي لإنشاء تقرير يشرح النتائج ويوضح المخاطر ويقدم توصيات للتحسين"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "project-02",
+      "title": {
+        "en": "Encryption Tool",
+        "de": "Verschlüsselungstool",
+        "ar": "أداة التشفير"
+      },
+      "description": {
+        "en": "Individual project to develop an encryption tool using strong encryption algorithms, providing a practical means to protect information from unauthorized access.",
+        "de": "Individuelles Projekt zur Entwicklung eines Verschlüsselungstools mit starken Verschlüsselungsalgorithmen, das eine praktische Möglichkeit bietet, Informationen vor unbefugtem Zugriff zu schützen.",
+        "ar": "تطوير أداة فردية لتشفير البيانات باستخدام خوارزميات تشفير قوية، بهدف توفير وسيلة عملية لحماية المعلومات من الوصول غير المصرح به."
+      },
+      "image": "assets/images/projects/02 project.png",
+      "category": {
+        "en": "Cryptography",
+        "de": "Kryptographie",
+        "ar": "التشفير"
+      },
+      "tags": [
+        {
+          "en": "Encryption Algorithms",
+          "de": "Verschlüsselungsalgorithmen",
+          "ar": "خوارزميات التشفير"
+        },
+        {
+          "en": "Data Protection",
+          "de": "Datenschutz",
+          "ar": "حماية البيانات"
+        },
+        {
+          "en": "Security",
+          "de": "Sicherheit",
+          "ar": "الأمن"
+        }
+      ],
+      "details": [
+        {
+          "en": "Implementation of strong encryption algorithms",
+          "de": "Implementierung starker Verschlüsselungsalgorithmen",
+          "ar": "تنفيذ خوارزميات تشفير قوية"
+        },
+        {
+          "en": "User-friendly interface for data encryption",
+          "de": "Benutzerfreundliche Oberfläche zur Datenverschlüsselung",
+          "ar": "واجهة سهلة الاستخدام لتشفير البيانات"
+        },
+        {
+          "en": "Protection against unauthorized access",
+          "de": "Schutz vor unbefugtem Zugriff",
+          "ar": "الحماية من الوصول غير المصرح به"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "project-03",
+      "title": {
+        "en": "Automated USB Security Scanner",
+        "de": "Automatisierter USB-Sicherheitsscanner",
+        "ar": "أداة الفحص الأمني لوحدات USB"
+      },
+      "description": {
+        "en": "Development of an automated tool that operates via USB, starting the scanning process automatically when connected to a device, providing quick and deep scan to detect malware and common threats.",
+        "de": "Entwicklung eines automatisierten Tools, das über USB funktioniert und den Scanvorgang beim Anschluss an ein Gerät automatisch startet, bietet schnellen und tiefen Scan zur Erkennung von Malware und häufigen Bedrohungen.",
+        "ar": "تطوير أداة تعمل من خلال وحدة USB، بحيث تبدأ عملية الفحص تلقائيًا عند توصيلها بالجهاز، وتوفر فحصًا سريعًا وعميقًا للكشف عن البرمجيات الخبيثة والتهديدات الشائعة."
+      },
+      "image": "assets/images/projects/03 Project.JPG",
+      "category": {
+        "en": "Security Tools",
+        "de": "Sicherheitstools",
+        "ar": "أدوات الأمن"
+      },
+      "tags": [
+        {
+          "en": "Malware Detection",
+          "de": "Malware-Erkennung",
+          "ar": "كشف البرمجيات الخبيثة"
+        },
+        {
+          "en": "USB Security",
+          "de": "USB-Sicherheit",
+          "ar": "أمن USB"
+        },
+        {
+          "en": "Automated Scanning",
+          "de": "Automatisiertes Scannen",
+          "ar": "الفحص التلقائي"
+        }
+      ],
+      "details": [
+        {
+          "en": "Automatic scan initiation upon USB connection",
+          "de": "Automatischer Scan-Start bei USB-Anschluss",
+          "ar": "بدء عملية الفحص تلقائيًا عند توصيل وحدة USB"
+        },
+        {
+          "en": "Quick scan for rapid threat detection",
+          "de": "Schneller Scan zur schnellen Bedrohungserkennung",
+          "ar": "فحص سريع للكشف السريع عن التهديدات"
+        },
+        {
+          "en": "Deep scan for comprehensive analysis",
+          "de": "Tiefer Scan für umfassende Analyse",
+          "ar": "فحص عميق للتحليل الشامل"
+        },
+        {
+          "en": "Detection of malware and common threats",
+          "de": "Erkennung von Malware und häufigen Bedrohungen",
+          "ar": "الكشف عن البرمجيات الخبيثة والتهديدات الشائعة"
+        }
+      ],
+      "links": []
+    }
+  ]
+}

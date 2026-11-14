@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "conference-01",
+      "title": {
+        "en": "Google Technical Events",
+        "de": "Google Technische Veranstaltungen",
+        "ar": "فعاليات تقنية من Google"
+      },
+      "description": {
+        "en": "Attended international technical events organized by Google and other international institutions to expand professional exposure and stay updated with industry trends.",
+        "de": "Internationale technische Veranstaltungen von Google und anderen internationalen Institutionen besucht, um die berufliche Exposition zu erweitern und über Branchentrends auf dem Laufenden zu bleiben.",
+        "ar": "حضرت فعاليات تقنية دولية نظمتها Google ومؤسسات دولية أخرى لتوسيع التعرض المهني ومواكبة اتجاهات الصناعة."
+      },
+      "image": "assets/images/conferences/Conferane 01.JPEG",
+      "org": {
+        "en": "Google & International Organizations",
+        "de": "Google & Internationale Organisationen",
+        "ar": "Google ومؤسسات دولية"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    },
+    {
+      "id": "conference-02",
+      "title": {
+        "en": "Egypt International Summit for Digital Transformation and Cybersecurity",
+        "de": "Internationale Technische Konferenzen",
+        "ar": "مؤتمرات تقنية دولية"
+      },
+      "description": {
+        "en": "Participated in international technical events outside the university, gaining exposure to global industry practices and networking opportunities.",
+        "de": "An internationalen technischen Veranstaltungen außerhalb der Universität teilgenommen, Einblick in globale Branchennormen und Networking-Möglichkeiten gewonnen.",
+        "ar": "شاركت في فعاليات تقنية دولية خارج الجامعة، مما أتاح لي التعرض لممارسات الصناعة العالمية وفرص التواصل."
+      },
+      "image": "assets/images/conferences/002.JPEG",
+      "org": {
+        "en": "Various International Organizations",
+        "de": "Verschiedene Internationale Organisationen",
+        "ar": "مؤسسات دولية مختلفة"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    },
+    {
+      "id": "conference-03",
+      "title": {
+        "en": "Egypt Cybersecurity Conference",
+        "de": "Cybersicherheits-Professionelle Veranstaltungen",
+        "ar": "فعاليات مهنية في الأمن السيبراني"
+      },
+      "description": {
+        "en": "Attended specialized cybersecurity conferences and events to enhance technical knowledge and stay current with security trends.",
+        "de": "Spezialisierte Cybersicherheitskonferenzen und -veranstaltungen besucht, um technisches Wissen zu erweitern und über Sicherheitstrends auf dem Laufenden zu bleiben.",
+        "ar": "حضرت مؤتمرات وفعاليات متخصصة في الأمن السيبراني لتعزيز المعرفة التقنية ومواكبة اتجاهات الأمن."
+      },
+      "image": "assets/images/conferences/0003.JPG",
+      "org": {
+        "en": "Various Organizations",
+        "de": "Verschiedene Organisationen",
+        "ar": "مؤسسات مختلفة"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    }
+  ]
+}

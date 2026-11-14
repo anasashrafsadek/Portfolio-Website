@@ -1,0 +1,1912 @@
+{
+  "categories": [
+    {
+      "id": "skill-cat-01",
+      "name": {
+        "en": "Networking & Infrastructure",
+        "de": "Netzwerke & Infrastruktur",
+        "ar": "الشبكات والبنية التحتية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "TCP/IP, OSI Model, Subnetting, IPv4/IPv6",
+            "de": "TCP/IP, OSI-Modell, Subnetting, IPv4/IPv6",
+            "ar": "TCP/IP, OSI Model, Subnetting, IPv4/IPv6"
+          },
+          "description": {
+            "en": "Network protocols and addressing",
+            "de": "Netzwerkprotokolle und Adressierung",
+            "ar": "بروتوكولات الشبكات والعنونة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Routing & Switching",
+            "de": "Routing & Switching",
+            "ar": "Routing & Switching"
+          },
+          "description": {
+            "en": "Network routing and switching technologies",
+            "de": "Netzwerk-Routing- und Switching-Technologien",
+            "ar": "تقنيات التوجيه والتبديل في الشبكات"
+          },
+          "tool": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Routing Protocols: OSPF, EIGRP, BGP",
+            "de": "Routing-Protokolle: OSPF, EIGRP, BGP",
+            "ar": "بروتوكولات التوجيه: OSPF, EIGRP, BGP"
+          },
+          "description": {
+            "en": "Dynamic routing protocols",
+            "de": "Dynamische Routing-Protokolle",
+            "ar": "بروتوكولات التوجيه الديناميكي"
+          },
+          "tool": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Switching Technologies: VLANs, STP, EtherChannel",
+            "de": "Switching-Technologien: VLANs, STP, EtherChannel",
+            "ar": "تقنيات التبديل: VLANs, STP, EtherChannel"
+          },
+          "description": {
+            "en": "Layer 2 switching technologies",
+            "de": "Layer-2-Switching-Technologien",
+            "ar": "تقنيات التبديل من الطبقة الثانية"
+          },
+          "tool": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "DHCP, DNS, NAT & Port Forwarding",
+            "de": "DHCP, DNS, NAT & Port Forwarding",
+            "ar": "DHCP, DNS, NAT & Port Forwarding"
+          },
+          "description": {
+            "en": "Network services and address translation",
+            "de": "Netzwerkdienste und Adressübersetzung",
+            "ar": "خدمات الشبكة وترجمة العناوين"
+          },
+          "tool": {
+            "en": "Windows Server, Cisco",
+            "de": "Windows Server, Cisco",
+            "ar": "Windows Server, Cisco"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-02",
+      "name": {
+        "en": "Firewall & Perimeter Security",
+        "de": "Firewall & Perimetersicherheit",
+        "ar": "الجدران النارية وأمن المحيط"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Firewall Configuration, Administration & Management",
+            "de": "Firewall-Konfiguration, -Administration & -Management",
+            "ar": "تكوين وإدارة الجدران النارية"
+          },
+          "description": {
+            "en": "Firewall setup and management",
+            "de": "Firewall-Einrichtung und -Verwaltung",
+            "ar": "إعداد وإدارة الجدران النارية"
+          },
+          "tool": {
+            "en": "Sophos, Fortinet, Palo Alto",
+            "de": "Sophos, Fortinet, Palo Alto",
+            "ar": "Sophos, Fortinet, Palo Alto"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Firewall Platforms: Fortinet FortiGate, Sophos Firewall, Palo Alto Networks, Cisco ASA",
+            "de": "Firewall-Plattformen: Fortinet FortiGate, Sophos Firewall, Palo Alto Networks, Cisco ASA",
+            "ar": "منصات الجدران النارية: Fortinet, Sophos, Palo Alto, Cisco ASA"
+          },
+          "description": {
+            "en": "Multiple firewall platform expertise",
+            "de": "Expertise in mehreren Firewall-Plattformen",
+            "ar": "الخبرة في منصات جدران نارية متعددة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "IPSec VPN, SSL VPN & Site-to-Site VPN",
+            "de": "IPSec VPN, SSL VPN & Site-to-Site VPN",
+            "ar": "IPSec VPN, SSL VPN & Site-to-Site VPN"
+          },
+          "description": {
+            "en": "Virtual private network technologies",
+            "de": "Virtual Private Network (VPN)-Technologien",
+            "ar": "تقنيات الشبكات الخاصة الافتراضية"
+          },
+          "tool": {
+            "en": "Sophos, Fortinet",
+            "de": "Sophos, Fortinet",
+            "ar": "Sophos, Fortinet"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "IDS/IPS Deployment, Configuration & Tuning",
+            "de": "IDS/IPS-Bereitstellung, -Konfiguration & -Tuning",
+            "ar": "نشر وتكوين وضبط IDS/IPS"
+          },
+          "description": {
+            "en": "Intrusion detection and prevention systems",
+            "de": "Intrusion Detection and Prevention Systems (IDS/IPS)",
+            "ar": "أنظمة كشف ومنع الاختراق"
+          },
+          "tool": {
+            "en": "Sophos, Fortinet",
+            "de": "Sophos, Fortinet",
+            "ar": "Sophos, Fortinet"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-03",
+      "name": {
+        "en": "Network Security & Access Control",
+        "de": "Netzwerksicherheit & Zugriffskontrolle",
+        "ar": "أمن الشبكات والتحكم في الوصول"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Network Hardening & Secure Configuration",
+            "de": "Netzwerk-Härtung & sichere Konfiguration",
+            "ar": "تقوية الشبكات والتكوين الآمن"
+          },
+          "description": {
+            "en": "Securing network devices and configurations",
+            "de": "Sicherung von Netzwerkgeräten und -konfigurationen",
+            "ar": "تأمين أجهزة الشبكة والتكوينات"
+          },
+          "tool": {
+            "en": "Cisco, Windows Server",
+            "de": "Cisco, Windows Server",
+            "ar": "Cisco, Windows Server"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Network Segmentation & Micro-Segmentation Concepts",
+            "de": "Netzwerksegmentierung & Mikrosegmentierung",
+            "ar": "مفاهيم تقسيم الشبكات والتقسيم الدقيق"
+          },
+          "description": {
+            "en": "Network segmentation for security",
+            "de": "Netzwerksegmentierung für Sicherheit",
+            "ar": "تقسيم الشبكات للأمان"
+          },
+          "tool": {
+            "en": "VLANs, Firewalls",
+            "de": "VLANs, Firewalls",
+            "ar": "VLANs, Firewalls"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Access Control Lists (ACLs)",
+            "de": "Access Control Lists (ACLs)",
+            "ar": "قوائم التحكم في الوصول (ACLs)"
+          },
+          "description": {
+            "en": "Network access control implementation",
+            "de": "Implementierung der Netzwerk-Zugriffskontrolle",
+            "ar": "تنفيذ التحكم في الوصول للشبكات"
+          },
+          "tool": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Network Access Control (NAC)",
+            "de": "Network Access Control (NAC)",
+            "ar": "التحكم في الوصول للشبكة (NAC)"
+          },
+          "description": {
+            "en": "Network access control systems",
+            "de": "Netzwerk-Zugriffskontrollsysteme",
+            "ar": "أنظمة التحكم في الوصول للشبكة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-04",
+      "name": {
+        "en": "System Administration",
+        "de": "Systemadministration",
+        "ar": "إدارة الأنظمة"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Windows Server Administration",
+            "de": "Windows Server Administration",
+            "ar": "إدارة Windows Server"
+          },
+          "description": {
+            "en": "Windows server management",
+            "de": "Windows-Server-Verwaltung",
+            "ar": "إدارة خوادم Windows"
+          },
+          "tool": {
+            "en": "Windows Server",
+            "de": "Windows Server",
+            "ar": "Windows Server"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Active Directory (AD DS)",
+            "de": "Active Directory (AD DS)",
+            "ar": "Active Directory (AD DS)"
+          },
+          "description": {
+            "en": "Directory services management",
+            "de": "Verwaltung von Verzeichnisdiensten",
+            "ar": "إدارة خدمات الدليل"
+          },
+          "tool": {
+            "en": "Windows Server",
+            "de": "Windows Server",
+            "ar": "Windows Server"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Group Policy Objects (GPO)",
+            "de": "Group Policy Objects (GPO)",
+            "ar": "Group Policy Objects (GPO)"
+          },
+          "description": {
+            "en": "Policy management in Windows environments",
+            "de": "Richtlinienverwaltung in Windows-Umgebungen",
+            "ar": "إدارة السياسات في بيئات Windows"
+          },
+          "tool": {
+            "en": "Windows Server",
+            "de": "Windows Server",
+            "ar": "Windows Server"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Linux Server Administration",
+            "de": "Linux-Server-Administration",
+            "ar": "إدارة خوادم Linux"
+          },
+          "description": {
+            "en": "Linux server management",
+            "de": "Linux-Server-Verwaltung",
+            "ar": "إدارة خوادم Linux"
+          },
+          "tool": {
+            "en": "Linux",
+            "de": "Linux",
+            "ar": "Linux"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "DNS & DHCP Administration",
+            "de": "DNS & DHCP Administration",
+            "ar": "إدارة DNS & DHCP"
+          },
+          "description": {
+            "en": "Network services administration",
+            "de": "Verwaltung von Netzwerkdiensten",
+            "ar": "إدارة خدمات الشبكة"
+          },
+          "tool": {
+            "en": "Windows Server, Linux",
+            "de": "Windows Server, Linux",
+            "ar": "Windows Server, Linux"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-05",
+      "name": {
+        "en": "Virtualization & Infrastructure Services",
+        "de": "Virtualisierung & Infrastrukturdienste",
+        "ar": "المحاكاة الافتراضية وخدمات البنية التحتية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "VMware ESXi",
+            "de": "VMware ESXi",
+            "ar": "VMware ESXi"
+          },
+          "description": {
+            "en": "VMware virtualization platform",
+            "de": "VMware-Virtualisierungsplattform",
+            "ar": "منصة المحاكاة الافتراضية من VMware"
+          },
+          "tool": {
+            "en": "VMware",
+            "de": "VMware",
+            "ar": "VMware"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Microsoft Hyper-V",
+            "de": "Microsoft Hyper-V",
+            "ar": "Microsoft Hyper-V"
+          },
+          "description": {
+            "en": "Microsoft virtualization platform",
+            "de": "Microsoft-Virtualisierungsplattform",
+            "ar": "منصة المحاكاة الافتراضية من Microsoft"
+          },
+          "tool": {
+            "en": "Microsoft",
+            "de": "Microsoft",
+            "ar": "Microsoft"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Virtual Machine Deployment & Management",
+            "de": "Virtuelle Maschinen-Bereitstellung & -Verwaltung",
+            "ar": "نشر وإدارة الأجهزة الافتراضية"
+          },
+          "description": {
+            "en": "VM lifecycle management",
+            "de": "VM-Lebenszyklus-Management",
+            "ar": "إدارة دورة حياة الأجهزة الافتراضية"
+          },
+          "tool": {
+            "en": "VMware, Hyper-V",
+            "de": "VMware, Hyper-V",
+            "ar": "VMware, Hyper-V"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Backup & Recovery Operations",
+            "de": "Backup- & Wiederherstellungsoperationen",
+            "ar": "عمليات النسخ الاحتياطي والاستعادة"
+          },
+          "description": {
+            "en": "Data backup and recovery",
+            "de": "Daten-Backup und -Wiederherstellung",
+            "ar": "النسخ الاحتياطي للبيانات والاستعادة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-06",
+      "name": {
+        "en": "SIEM & Security Operations",
+        "de": "SIEM & Sicherheitsoperationen",
+        "ar": "SIEM والعمليات الأمنية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "SIEM Deployment, Monitoring & Log Analysis",
+            "de": "SIEM-Bereitstellung, -Überwachung & Log-Analyse",
+            "ar": "نشر SIEM ومراقبة وتحليل السجلات"
+          },
+          "description": {
+            "en": "Security information and event management",
+            "de": "Security Information and Event Management (SIEM)",
+            "ar": "إدارة معلومات وأحداث الأمن"
+          },
+          "tool": {
+            "en": "Wazuh, Splunk",
+            "de": "Wazuh, Splunk",
+            "ar": "Wazuh, Splunk"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Security Event Monitoring",
+            "de": "Sicherheitsereignis-Überwachung",
+            "ar": "مراقبة الأحداث الأمنية"
+          },
+          "description": {
+            "en": "Real-time security monitoring",
+            "de": "Echtzeit-Sicherheitsüberwachung",
+            "ar": "المراقبة الأمنية في الوقت الفعلي"
+          },
+          "tool": {
+            "en": "SIEM Platforms",
+            "de": "SIEM-Plattformen",
+            "ar": "منصات SIEM"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Log Collection, Correlation & Analysis",
+            "de": "Log-Sammlung, -Korrelation & -Analyse",
+            "ar": "جمع وربط وتحليل السجلات"
+          },
+          "description": {
+            "en": "Log management and analysis",
+            "de": "Log-Management und -Analyse",
+            "ar": "إدارة وتحليل السجلات"
+          },
+          "tool": {
+            "en": "Wazuh, Splunk",
+            "de": "Wazuh, Splunk",
+            "ar": "Wazuh, Splunk"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Incident Detection & Investigation",
+            "de": "Incident-Erkennung & -Untersuchung",
+            "ar": "كشف الحوادث والتحقيق فيها"
+          },
+          "description": {
+            "en": "Security incident response",
+            "de": "Sicherheitsvorfall-Reaktion",
+            "ar": "الاستجابة للحوادث الأمنية"
+          },
+          "tool": {
+            "en": "SIEM Platforms",
+            "de": "SIEM-Plattformen",
+            "ar": "منصات SIEM"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "MITRE ATT&CK Framework",
+            "de": "MITRE ATT&CK Framework",
+            "ar": "إطار MITRE ATT&CK"
+          },
+          "description": {
+            "en": "Adversary tactics and techniques knowledge base",
+            "de": "Wissensdatenbank zu Angreifertaktiken und -techniken",
+            "ar": "قاعدة معارف تكتيكات وتقنيات الخصوم"
+          },
+          "tool": {
+            "en": "MITRE",
+            "de": "MITRE",
+            "ar": "MITRE"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-07",
+      "name": {
+        "en": "Vulnerability Assessment & Management",
+        "de": "Schwachstellenbewertung & -management",
+        "ar": "تقييم الثغرات وإدارتها"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Vulnerability Assessment & Scanning",
+            "de": "Schwachstellenbewertung & -Scanning",
+            "ar": "تقييم الثغرات وفحصها"
+          },
+          "description": {
+            "en": "System vulnerability scanning",
+            "de": "System-Schwachstellen-Scanning",
+            "ar": "فحص ثغرات الأنظمة"
+          },
+          "tool": {
+            "en": "Nessus, OpenVAS, Nmap",
+            "de": "Nessus, OpenVAS, Nmap",
+            "ar": "Nessus, OpenVAS, Nmap"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Risk Assessment & Threat Modeling",
+            "de": "Risikoanalyse & Bedrohungsmodellierung",
+            "ar": "تقييم المخاطر ونمذجة التهديدات"
+          },
+          "description": {
+            "en": "Security risk evaluation",
+            "de": "Sicherheitsrisiko-Bewertung",
+            "ar": "تقييم المخاطر الأمنية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "CVSS, CWE & MITRE ATT&CK",
+            "de": "CVSS, CWE & MITRE ATT&CK",
+            "ar": "CVSS, CWE & MITRE ATT&CK"
+          },
+          "description": {
+            "en": "Vulnerability scoring and classification standards",
+            "de": "Schwachstellen-Bewertungs- und Klassifizierungsstandards",
+            "ar": "معايير تصنيف وتقييم الثغرات"
+          },
+          "tool": {
+            "en": "Various Standards",
+            "de": "Verschiedene Standards",
+            "ar": "معايير متنوعة"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Security Auditing & Reporting",
+            "de": "Sicherheitsaudit & -Reporting",
+            "ar": "التدقيق الأمني وإعداد التقارير"
+          },
+          "description": {
+            "en": "Security audit processes",
+            "de": "Sicherheitsaudit-Prozesse",
+            "ar": "عمليات التدقيق الأمني"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-08",
+      "name": {
+        "en": "Penetration Testing & Ethical Hacking",
+        "de": "Penetrationstests & Ethisches Hacking",
+        "ar": "اختبار الاختراق والقرصنة الأخلاقية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Network Penetration Testing",
+            "de": "Netzwerk-Penetrationstests",
+            "ar": "اختبار اختراق الشبكات"
+          },
+          "description": {
+            "en": "Network security testing",
+            "de": "Netzwerksicherheits-Tests",
+            "ar": "اختبار أمن الشبكات"
+          },
+          "tool": {
+            "en": "Metasploit, Nmap",
+            "de": "Metasploit, Nmap",
+            "ar": "Metasploit, Nmap"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Infrastructure Security Testing",
+            "de": "Infrastruktursicherheits-Tests",
+            "ar": "اختبار أمن البنية التحتية"
+          },
+          "description": {
+            "en": "Infrastructure penetration testing",
+            "de": "Infrastruktur-Penetrationstests",
+            "ar": "اختبار اختراق البنية التحتية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Active Directory Security Assessment",
+            "de": "Active Directory Sicherheitsbewertung",
+            "ar": "تقييم أمن Active Directory"
+          },
+          "description": {
+            "en": "AD security testing",
+            "de": "AD-Sicherheitstests",
+            "ar": "اختبار أمن AD"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Enumeration & Reconnaissance",
+            "de": "Enumeration & Aufklärung",
+            "ar": "التعداد والاستطلاع"
+          },
+          "description": {
+            "en": "Information gathering techniques",
+            "de": "Informationserfassungstechniken",
+            "ar": "تقنيات جمع المعلومات"
+          },
+          "tool": {
+            "en": "Nmap, Gobuster",
+            "de": "Nmap, Gobuster",
+            "ar": "Nmap, Gobuster"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Privilege Escalation",
+            "de": "Privilege Escalation",
+            "ar": "تصعيد الصلاحيات"
+          },
+          "description": {
+            "en": "Privilege escalation techniques",
+            "de": "Privilege-Escalation-Techniken",
+            "ar": "تقنيات تصعيد الصلاحيات"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Tools: Metasploit, Hydra, Netcat, Gobuster",
+            "de": "Tools: Metasploit, Hydra, Netcat, Gobuster",
+            "ar": "أدوات: Metasploit, Hydra, Netcat, Gobuster"
+          },
+          "description": {
+            "en": "Penetration testing tools",
+            "de": "Penetrationstest-Tools",
+            "ar": "أدوات اختبار الاختراق"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-09",
+      "name": {
+        "en": "Application & API Security",
+        "de": "Anwendungs- & API-Sicherheit",
+        "ar": "أمن التطبيقات وواجهات API"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "OWASP Top 10",
+            "de": "OWASP Top 10",
+            "ar": "OWASP Top 10"
+          },
+          "description": {
+            "en": "Top web application security risks",
+            "de": "Top-Risiken für Webanwendungssicherheit",
+            "ar": "أهم مخاطر أمن تطبيقات الويب"
+          },
+          "tool": {
+            "en": "OWASP",
+            "de": "OWASP",
+            "ar": "OWASP"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Web Application Penetration Testing",
+            "de": "Webanwendungs-Penetrationstests",
+            "ar": "اختبار اختراق تطبيقات الويب"
+          },
+          "description": {
+            "en": "Web app security testing",
+            "de": "Webanwendungs-Sicherheitstests",
+            "ar": "اختبار أمن تطبيقات الويب"
+          },
+          "tool": {
+            "en": "Burp Suite, OWASP ZAP",
+            "de": "Burp Suite, OWASP ZAP",
+            "ar": "Burp Suite, OWASP ZAP"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "SQL Injection (SQLi)",
+            "de": "SQL Injection (SQLi)",
+            "ar": "حقن SQL (SQLi)"
+          },
+          "description": {
+            "en": "SQL injection attack and defense",
+            "de": "SQL-Injection-Angriff und -Abwehr",
+            "ar": "هجوم حقن SQL والدفاع ضده"
+          },
+          "tool": {
+            "en": "SQLmap",
+            "de": "SQLmap",
+            "ar": "SQLmap"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Cross-Site Scripting (XSS)",
+            "de": "Cross-Site Scripting (XSS)",
+            "ar": "Cross-Site Scripting (XSS)"
+          },
+          "description": {
+            "en": "XSS attack and defense",
+            "de": "XSS-Angriff und -Abwehr",
+            "ar": "هجوم XSS والدفاع ضده"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Tools: Burp Suite, OWASP ZAP, SQLmap, Nikto",
+            "de": "Tools: Burp Suite, OWASP ZAP, SQLmap, Nikto",
+            "ar": "أدوات: Burp Suite, OWASP ZAP, SQLmap, Nikto"
+          },
+          "description": {
+            "en": "Web security testing tools",
+            "de": "Web-Sicherheitstest-Tools",
+            "ar": "أدوات اختبار أمن الويب"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-10",
+      "name": {
+        "en": "Red Teaming & Adversary Simulation",
+        "de": "Red Teaming & Angreifersimulation",
+        "ar": "Red Teaming ومحاكاة الخصوم"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Red Team Operations",
+            "de": "Red Team Operationen",
+            "ar": "عمليات Red Team"
+          },
+          "description": {
+            "en": "Adversary simulation operations",
+            "de": "Angreifersimulations-Operationen",
+            "ar": "عمليات محاكاة الخصوم"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Command & Control (C2) Frameworks",
+            "de": "Command & Control (C2) Frameworks",
+            "ar": "أطر التحكم والقيادة (C2)"
+          },
+          "description": {
+            "en": "C2 infrastructure and frameworks",
+            "de": "C2-Infrastruktur und -Frameworks",
+            "ar": "بنية وأطر C2"
+          },
+          "tool": {
+            "en": "Cobalt Strike, Empire",
+            "de": "Cobalt Strike, Empire",
+            "ar": "Cobalt Strike, Empire"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Active Directory Attack Techniques",
+            "de": "Active Directory Angriffstechniken",
+            "ar": "تقنيات هجوم Active Directory"
+          },
+          "description": {
+            "en": "AD penetration techniques",
+            "de": "AD-Penetrationstechniken",
+            "ar": "تقنيات اختراق AD"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "MITRE ATT&CK Adversary Techniques",
+            "de": "MITRE ATT&CK Angreifertechniken",
+            "ar": "تقنيات الخصوم من MITRE ATT&CK"
+          },
+          "description": {
+            "en": "Adversary tactics knowledge",
+            "de": "Angreifertaktik-Wissen",
+            "ar": "معرفة تكتيكات الخصوم"
+          },
+          "tool": {
+            "en": "MITRE",
+            "de": "MITRE",
+            "ar": "MITRE"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-11",
+      "name": {
+        "en": "Cloud Security & Cloud Networking",
+        "de": "Cloud-Sicherheit & Cloud-Netzwerke",
+        "ar": "أمن السحابة وشبكاتها"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Cloud Network Architecture",
+            "de": "Cloud-Netzwerkarchitektur",
+            "ar": "بنية شبكات السحابة"
+          },
+          "description": {
+            "en": "Cloud networking design",
+            "de": "Cloud-Netzwerkdesign",
+            "ar": "تصميم شبكات السحابة"
+          },
+          "tool": {
+            "en": "AWS, Azure, GCP",
+            "de": "AWS, Azure, GCP",
+            "ar": "AWS, Azure, GCP"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Virtual Private Cloud (VPC)",
+            "de": "Virtual Private Cloud (VPC)",
+            "ar": "Virtual Private Cloud (VPC)"
+          },
+          "description": {
+            "en": "VPC configuration and management",
+            "de": "VPC-Konfiguration und -Verwaltung",
+            "ar": "تكوين وإدارة VPC"
+          },
+          "tool": {
+            "en": "AWS, Azure, GCP",
+            "de": "AWS, Azure, GCP",
+            "ar": "AWS, Azure, GCP"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Identity & Access Management (IAM)",
+            "de": "Identity & Access Management (IAM)",
+            "ar": "إدارة الهوية والوصول (IAM)"
+          },
+          "description": {
+            "en": "Cloud IAM management",
+            "de": "Cloud-IAM-Verwaltung",
+            "ar": "إدارة IAM في السحابة"
+          },
+          "tool": {
+            "en": "AWS, Azure, GCP",
+            "de": "AWS, Azure, GCP",
+            "ar": "AWS, Azure, GCP"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Cloud Security Monitoring",
+            "de": "Cloud-Sicherheitsüberwachung",
+            "ar": "مراقبة أمن السحابة"
+          },
+          "description": {
+            "en": "Cloud security monitoring tools",
+            "de": "Cloud-Sicherheitsüberwachungs-Tools",
+            "ar": "أدوات مراقبة أمن السحابة"
+          },
+          "tool": {
+            "en": "AWS GuardDuty, Azure Defender",
+            "de": "AWS GuardDuty, Azure Defender",
+            "ar": "AWS GuardDuty, Azure Defender"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "CIS Cloud Security Benchmarks",
+            "de": "CIS Cloud Security Benchmarks",
+            "ar": "معايير CIS لأمن السحابة"
+          },
+          "description": {
+            "en": "Cloud security standards",
+            "de": "Cloud-Sicherheitsstandards",
+            "ar": "معايير أمن السحابة"
+          },
+          "tool": {
+            "en": "CIS",
+            "de": "CIS",
+            "ar": "CIS"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-12",
+      "name": {
+        "en": "Automation & Scripting",
+        "de": "Automatisierung & Skripting",
+        "ar": "الأتمتة والبرمجة النصية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Python Programming & Automation",
+            "de": "Python-Programmierung & -Automatisierung",
+            "ar": "برمجة بايثون والأتمتة"
+          },
+          "description": {
+            "en": "Python for automation and scripting",
+            "de": "Python für Automatisierung und Skripting",
+            "ar": "بايثون للأتمتة والبرمجة النصية"
+          },
+          "tool": {
+            "en": "Python",
+            "de": "Python",
+            "ar": "Python"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Bash Scripting",
+            "de": "Bash-Skripting",
+            "ar": "برمجة Bash"
+          },
+          "description": {
+            "en": "Linux shell scripting",
+            "de": "Linux-Shell-Skripting",
+            "ar": "برمجة شل Linux"
+          },
+          "tool": {
+            "en": "Bash",
+            "de": "Bash",
+            "ar": "Bash"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Network Configuration Automation",
+            "de": "Netzwerkkonfigurations-Automatisierung",
+            "ar": "أتمتة تكوين الشبكات"
+          },
+          "description": {
+            "en": "Automating network device configuration",
+            "de": "Automatisierung der Netzwerkkonfiguration",
+            "ar": "أتمتة تكوين أجهزة الشبكة"
+          },
+          "tool": {
+            "en": "Python, Various Tools",
+            "de": "Python, verschiedene Tools",
+            "ar": "Python, أدوات متنوعة"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Security Automation",
+            "de": "Sicherheitsautomatisierung",
+            "ar": "أتمتة الأمن"
+          },
+          "description": {
+            "en": "Automating security tasks",
+            "de": "Automatisierung von Sicherheitsaufgaben",
+            "ar": "أتمتة المهام الأمنية"
+          },
+          "tool": {
+            "en": "Python, Various Tools",
+            "de": "Python, verschiedene Tools",
+            "ar": "Python, أدوات متنوعة"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-13",
+      "name": {
+        "en": "Network Monitoring & Troubleshooting",
+        "de": "Netzwerküberwachung & Fehlerbehebung",
+        "ar": "مراقبة الشبكات واستكشاف الأخطاء"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "Network Performance Monitoring",
+            "de": "Netzwerkleistung-Überwachung",
+            "ar": "مراقبة أداء الشبكة"
+          },
+          "description": {
+            "en": "Network performance analysis",
+            "de": "Netzwerkleistungsanalyse",
+            "ar": "تحليل أداء الشبكة"
+          },
+          "tool": {
+            "en": "SolarWinds, Zabbix",
+            "de": "SolarWinds, Zabbix",
+            "ar": "SolarWinds, Zabbix"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Network Traffic Analysis",
+            "de": "Netzwerkverkehrsanalyse",
+            "ar": "تحليل حركة مرور الشبكة"
+          },
+          "description": {
+            "en": "Traffic analysis and inspection",
+            "de": "Verkehrsanalyse und -inspektion",
+            "ar": "تحليل وفحص حركة المرور"
+          },
+          "tool": {
+            "en": "Wireshark, Nmap",
+            "de": "Wireshark, Nmap",
+            "ar": "Wireshark, Nmap"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Packet Capture & Inspection",
+            "de": "Paket-Erfassung & -Inspektion",
+            "ar": "التقاط وفحص الحزم"
+          },
+          "description": {
+            "en": "Packet analysis",
+            "de": "Paketanalyse",
+            "ar": "تحليل الحزم"
+          },
+          "tool": {
+            "en": "Wireshark",
+            "de": "Wireshark",
+            "ar": "Wireshark"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Connectivity Troubleshooting",
+            "de": "Verbindungs-Fehlerbehebung",
+            "ar": "استكشاف أخطاء الاتصال"
+          },
+          "description": {
+            "en": "Network issue resolution",
+            "de": "Netzwerkproblem-Lösung",
+            "ar": "حل مشاكل الشبكة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-14",
+      "name": {
+        "en": "DevSecOps & Security Engineering",
+        "de": "DevSecOps & Sicherheitsengineering",
+        "ar": "DevSecOps والهندسة الأمنية"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "DevSecOps Fundamentals",
+            "de": "DevSecOps-Grundlagen",
+            "ar": "أساسيات DevSecOps"
+          },
+          "description": {
+            "en": "Security in DevOps practices",
+            "de": "Sicherheit in DevOps-Praktiken",
+            "ar": "الأمن في ممارسات DevOps"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "CI/CD Pipeline Security",
+            "de": "CI/CD-Pipeline-Sicherheit",
+            "ar": "أمن خطوط CI/CD"
+          },
+          "description": {
+            "en": "Securing CI/CD pipelines",
+            "de": "Sicherung von CI/CD-Pipelines",
+            "ar": "تأمين خطوط CI/CD"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Security Automation",
+            "de": "Sicherheitsautomatisierung",
+            "ar": "أتمتة الأمن"
+          },
+          "description": {
+            "en": "Automating security processes",
+            "de": "Automatisierung von Sicherheitsprozessen",
+            "ar": "أتمتة عمليات الأمن"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Secure SDLC",
+            "de": "Secure SDLC",
+            "ar": "SDLC الآمن"
+          },
+          "description": {
+            "en": "Secure software development lifecycle",
+            "de": "Sicherer Software-Entwicklungslebenszyklus",
+            "ar": "دورة تطوير البرمجيات الآمنة"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-15",
+      "name": {
+        "en": "Security Frameworks & Compliance",
+        "de": "Sicherheitsrahmenwerke & Compliance",
+        "ar": "أطر الأمن والامتثال"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "ISO/IEC 27001",
+            "de": "ISO/IEC 27001",
+            "ar": "ISO/IEC 27001"
+          },
+          "description": {
+            "en": "Information security management standard",
+            "de": "Informationssicherheits-Managementstandard",
+            "ar": "معيار إدارة أمن المعلومات"
+          },
+          "tool": {
+            "en": "ISO",
+            "de": "ISO",
+            "ar": "ISO"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "NIST Cybersecurity Framework (NIST CSF)",
+            "de": "NIST Cybersecurity Framework (NIST CSF)",
+            "ar": "إطار NIST للأمن السيبراني"
+          },
+          "description": {
+            "en": "NIST cybersecurity framework",
+            "de": "NIST-Cybersicherheitsrahmenwerk",
+            "ar": "إطار NIST للأمن السيبراني"
+          },
+          "tool": {
+            "en": "NIST",
+            "de": "NIST",
+            "ar": "NIST"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "CIS Critical Security Controls",
+            "de": "CIS Critical Security Controls",
+            "ar": "ضوابط CIS الأمنية الحرجة"
+          },
+          "description": {
+            "en": "CIS security controls",
+            "de": "CIS-Sicherheitskontrollen",
+            "ar": "ضوابط الأمن من CIS"
+          },
+          "tool": {
+            "en": "CIS",
+            "de": "CIS",
+            "ar": "CIS"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "CIS Benchmarks",
+            "de": "CIS Benchmarks",
+            "ar": "معايير CIS"
+          },
+          "description": {
+            "en": "Configuration security benchmarks",
+            "de": "Konfigurations-Sicherheitsbenchmarks",
+            "ar": "معايير أمن التكوين"
+          },
+          "tool": {
+            "en": "CIS",
+            "de": "CIS",
+            "ar": "CIS"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Risk Assessment & Management",
+            "de": "Risikoanalyse & -management",
+            "ar": "تقييم وإدارة المخاطر"
+          },
+          "description": {
+            "en": "Security risk management",
+            "de": "Sicherheitsrisiko-Management",
+            "ar": "إدارة المخاطر الأمنية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-16",
+      "name": {
+        "en": "VoIP & Unified Communications",
+        "de": "VoIP & Unified Communications",
+        "ar": "VoIP والاتصالات الموحدة"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "3CX IP PBX Administration",
+            "de": "3CX IP PBX Administration",
+            "ar": "إدارة 3CX IP PBX"
+          },
+          "description": {
+            "en": "3CX PBX system management",
+            "de": "3CX PBX-Systemverwaltung",
+            "ar": "إدارة نظام PBX من 3CX"
+          },
+          "tool": {
+            "en": "3CX",
+            "de": "3CX",
+            "ar": "3CX"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "SIP Protocol & SIP Trunk Configuration",
+            "de": "SIP-Protokoll & SIP-Trunk-Konfiguration",
+            "ar": "بروتوكول SIP وتكوين SIP Trunk"
+          },
+          "description": {
+            "en": "SIP protocol configuration",
+            "de": "SIP-Protokoll-Konfiguration",
+            "ar": "تكوين بروتوكول SIP"
+          },
+          "tool": {
+            "en": "3CX, Various",
+            "de": "3CX, verschiedene",
+            "ar": "3CX, متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "IP Phone Configuration & Troubleshooting",
+            "de": "IP-Telefon-Konfiguration & -Fehlerbehebung",
+            "ar": "تكوين واستكشاف أخطاء هواتف IP"
+          },
+          "description": {
+            "en": "IP phone setup and support",
+            "de": "IP-Telefon-Einrichtung und -Support",
+            "ar": "إعداد ودعم هواتف IP"
+          },
+          "tool": {
+            "en": "3CX, Various",
+            "de": "3CX, verschiedene",
+            "ar": "3CX, متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "VoIP Network Troubleshooting",
+            "de": "VoIP-Netzwerk-Fehlerbehebung",
+            "ar": "استكشاف أخطاء شبكة VoIP"
+          },
+          "description": {
+            "en": "VoIP network issue resolution",
+            "de": "VoIP-Netzwerkproblem-Lösung",
+            "ar": "حل مشاكل شبكة VoIP"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "QoS for Voice Traffic",
+            "de": "QoS für Sprachverkehr",
+            "ar": "QoS لحركة مرور الصوت"
+          },
+          "description": {
+            "en": "Quality of Service for VoIP",
+            "de": "Quality of Service für VoIP",
+            "ar": "جودة الخدمة لـ VoIP"
+          },
+          "tool": {
+            "en": "Cisco, Various",
+            "de": "Cisco, verschiedene",
+            "ar": "Cisco, متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skill-cat-17",
+      "name": {
+        "en": "Technical Support & IT Operations",
+        "de": "Technischer Support & IT-Betrieb",
+        "ar": "الدعم الفني وعمليات تقنية المعلومات"
+      },
+      "skills": [
+        {
+          "name": {
+            "en": "IT Infrastructure Support",
+            "de": "IT-Infrastruktur-Support",
+            "ar": "دعم البنية التحتية لتقنية المعلومات"
+          },
+          "description": {
+            "en": "Infrastructure technical support",
+            "de": "Infrastruktur-technischer Support",
+            "ar": "الدعم الفني للبنية التحتية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Hardware & Software Troubleshooting",
+            "de": "Hardware- & Software-Fehlerbehebung",
+            "ar": "استكشاف أخطاء الأجهزة والبرمجيات"
+          },
+          "description": {
+            "en": "Technical issue resolution",
+            "de": "Technische Problem-Lösung",
+            "ar": "حل المشاكل التقنية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Windows Desktop Administration",
+            "de": "Windows-Desktop-Administration",
+            "ar": "إدارة أجهزة Windows"
+          },
+          "description": {
+            "en": "Windows desktop management",
+            "de": "Windows-Desktop-Verwaltung",
+            "ar": "إدارة أجهزة سطح المكتب Windows"
+          },
+          "tool": {
+            "en": "Windows",
+            "de": "Windows",
+            "ar": "Windows"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "User Account & Access Management",
+            "de": "Benutzerkonto- & Zugriffskontroll-Management",
+            "ar": "إدارة حسابات المستخدمين والوصول"
+          },
+          "description": {
+            "en": "User and access management",
+            "de": "Benutzer- und Zugriffskontroll-Management",
+            "ar": "إدارة المستخدمين والوصول"
+          },
+          "tool": {
+            "en": "Active Directory, Various",
+            "de": "Active Directory, verschiedene",
+            "ar": "Active Directory, متنوع"
+          },
+          "level": {
+            "en": "Advanced",
+            "de": "Fortgeschritten",
+            "ar": "متقدم"
+          }
+        },
+        {
+          "name": {
+            "en": "Branch IT Infrastructure Deployment",
+            "de": "Filial-IT-Infrastruktur-Bereitstellung",
+            "ar": "نشر البنية التحتية لتقنية المعلومات للفروع"
+          },
+          "description": {
+            "en": "Branch infrastructure setup",
+            "de": "Filial-Infrastruktur-Einrichtung",
+            "ar": "إعداد بنية تحتية للفروع"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        },
+        {
+          "name": {
+            "en": "Infrastructure Relocation & Migration",
+            "de": "Infrastruktur-Umzug & -Migration",
+            "ar": "نقل وهجرة البنية التحتية"
+          },
+          "description": {
+            "en": "Infrastructure migration projects",
+            "de": "Infrastruktur-Migrationsprojekte",
+            "ar": "مشاريع هجرة البنية التحتية"
+          },
+          "tool": {
+            "en": "Various",
+            "de": "Verschiedene",
+            "ar": "متنوع"
+          },
+          "level": {
+            "en": "Intermediate",
+            "de": "Mittelstufe",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "carousel": [
+    {
+      "id": "certificate-01",
+      "title": {
+        "en": "CCNA – Cisco Certified Network Associate",
+        "de": "CCNA – Cisco Certified Network Associate",
+        "ar": "CCNA – Cisco Certified Network Associate"
+      },
+      "image": "assets/images/certificates/01.png"
+    },
+    {
+      "id": "certificate-02",
+      "title": {
+        "en": "CEH – Certified Ethical Hacker",
+        "de": "CEH – Certified Ethical Hacker",
+        "ar": "CEH – Certified Ethical Hacker"
+      },
+      "image": "assets/images/certificates/02.png"
+    },
+    {
+      "id": "certificate-03",
+      "title": {
+        "en": "Fortinet NSE",
+        "de": "Fortinet NSE",
+        "ar": "Fortinet NSE"
+      },
+      "image": "assets/images/certificates/03.png"
+    },
+    {
+      "id": "certificate-04",
+      "title": {
+        "en": "Palo Alto Networks – Cybersecurity Certificate",
+        "de": "Palo Alto Networks – Cybersicherheitszertifikat",
+        "ar": "Palo Alto Networks – Cybersecurity Certificate"
+      },
+      "image": "assets/images/certificates/04.png"
+    }
+  ],
+  "viewAll": {
+    "label": {
+      "en": "View All Certificates",
+      "de": "Alle Zertifikate anzeigen",
+      "ar": "عرض جميع الشهادات"
+    },
+    "url": ""
+  },
+  "groups": [
+    {
+      "title": {
+        "en": "International Certifications",
+        "de": "Internationale Zertifizierungen",
+        "ar": "الشهادات الدولية"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "CCNA – Cisco Certified Network Associate",
+            "de": "CCNA – Cisco Certified Network Associate",
+            "ar": "CCNA – Cisco Certified Network Associate"
+          },
+          "org": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "CEH – Certified Ethical Hacker",
+            "de": "CEH – Certified Ethical Hacker",
+            "ar": "CEH – Certified Ethical Hacker"
+          },
+          "org": {
+            "en": "EC-Council",
+            "de": "EC-Council",
+            "ar": "EC-Council"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Fortinet NSE",
+            "de": "Fortinet NSE",
+            "ar": "Fortinet NSE"
+          },
+          "org": {
+            "en": "Fortinet",
+            "de": "Fortinet",
+            "ar": "Fortinet"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Palo Alto Networks – Cybersecurity Certificate",
+            "de": "Palo Alto Networks – Cybersicherheitszertifikat",
+            "ar": "Palo Alto Networks – Cybersecurity Certificate"
+          },
+          "org": {
+            "en": "Palo Alto Networks",
+            "de": "Palo Alto Networks",
+            "ar": "Palo Alto Networks"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Professional Technical Courses",
+        "de": "Professionelle Technische Kurse",
+        "ar": "الدورات التقنية المتخصصة"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "CCNP Security – Advanced Network Security",
+            "de": "CCNP Security – Erweiterte Netzwerksicherheit",
+            "ar": "CCNP Security – Advanced Network Security"
+          },
+          "org": {
+            "en": "Cisco",
+            "de": "Cisco",
+            "ar": "Cisco"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Fortinet NSE 4 – Network Security Professional",
+            "de": "Fortinet NSE 4 – Netzwerk-Sicherheitsprofi",
+            "ar": "Fortinet NSE 4 – Network Security Professional"
+          },
+          "org": {
+            "en": "Fortinet",
+            "de": "Fortinet",
+            "ar": "Fortinet"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "ISO/IEC 27001 – Information Security Management Systems",
+            "de": "ISO/IEC 27001 – Informationssicherheits-Managementsysteme",
+            "ar": "ISO/IEC 27001 – Information Security Management Systems"
+          },
+          "org": {
+            "en": "ISO",
+            "de": "ISO",
+            "ar": "ISO"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Cloud Security Fundamentals",
+            "de": "Cloud-Sicherheitsgrundlagen",
+            "ar": "Cloud Security Fundamentals"
+          },
+          "org": {
+            "en": "Various Providers",
+            "de": "Verschiedene Anbieter",
+            "ar": "مزودون مختلفون"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Linux System Administration",
+            "de": "Linux-Systemadministration",
+            "ar": "Linux System Administration"
+          },
+          "org": {
+            "en": "Various Providers",
+            "de": "Verschiedene Anbieter",
+            "ar": "مزودون مختلفون"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Applied Cryptography – Cryptographic Systems & Algorithms",
+            "de": "Angewandte Kryptographie – Kryptographische Systeme & Algorithmen",
+            "ar": "Applied Cryptography – Cryptographic Systems & Algorithms"
+          },
+          "org": {
+            "en": "Various Providers",
+            "de": "Verschiedene Anbieter",
+            "ar": "مزودون مختلفون"
+          },
+          "date": {
+            "en": "Completed",
+            "de": "Abgeschlossen",
+            "ar": "تم الإنجاز"
+          },
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Academic Achievements",
+        "de": "Akademische Erfolge",
+        "ar": "الإنجازات الأكاديمية"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "BSc in Networks and Cybersecurity",
+            "de": "BSc in Netzwerke und Cybersicherheit",
+            "ar": "بكالوريوس في الشبكات والأمن السيبراني"
+          },
+          "org": {
+            "en": "The Open University (UK)",
+            "de": "The Open University (UK)",
+            "ar": "جامعة The Open University البريطانية"
+          },
+          "date": {
+            "en": "2025",
+            "de": "2025",
+            "ar": "2025"
+          },
+          "url": ""
+        },
+        {
+          "title": {
+            "en": "Classification: Second Class Honours – Second Division (2:2)",
+            "de": "Klassifikation: Second Class Honours – Second Division (2:2)",
+            "ar": "التقدير: Second Class Honours – Second Division (2:2)"
+          },
+          "org": {
+            "en": "The Open University (UK)",
+            "de": "The Open University (UK)",
+            "ar": "جامعة The Open University البريطانية"
+          },
+          "date": {
+            "en": "2025",
+            "de": "2025",
+            "ar": "2025"
+          },
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

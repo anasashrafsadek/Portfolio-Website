@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "name": {
+        "en": "Arabic",
+        "de": "Arabisch",
+        "ar": "العربية"
+      },
+      "level": {
+        "en": "Native",
+        "de": "Muttersprache",
+        "ar": "لغة أم"
+      },
+      "description": {
+        "en": "Native language proficiency",
+        "de": "Muttersprachliche Sprachkompetenz",
+        "ar": "إتقان اللغة الأم"
+      }
+    },
+    {
+      "name": {
+        "en": "English",
+        "de": "Englisch",
+        "ar": "الإنجليزية"
+      },
+      "level": {
+        "en": "Professional Working Proficiency",
+        "de": "Professionelle Arbeitskompetenz",
+        "ar": "إتقان مهني"
+      },
+      "description": {
+        "en": "Strong reading, writing, and communication skills in technical and professional contexts",
+        "de": "Starke Lese-, Schreib- und Kommunikationsfähigkeiten in technischen und beruflichen Kontexten",
+        "ar": "مهارات قوية في القراءة والكتابة والتواصل في السياقات التقنية والمهنية"
+      }
+    },
+    {
+      "name": {
+        "en": "German",
+        "de": "Deutsch",
+        "ar": "الألمانية"
+      },
+      "level": {
+        "en": "A2 (Goethe-Zertifikat A2)",
+        "de": "A2 (Goethe-Zertifikat A2)",
+        "ar": "A2 (شهادة جوته A2)"
+      },
+      "description": {
+        "en": "Basic communication skills in everyday situations",
+        "de": "Grundlegende Kommunikationsfähigkeiten in Alltagssituationen",
+        "ar": "مهارات تواصل أساسية في المواقف اليومية"
+      }
+    }
+  ]
+}

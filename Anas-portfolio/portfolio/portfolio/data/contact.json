@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "email",
+      "title": {
+        "en": "Email",
+        "de": "E-Mail",
+        "ar": "البريد الإلكتروني"
+      },
+      "description": {
+        "en": "Get in touch via email: anasashrafsadek@gmail.com",
+        "de": "Kontakt per E-Mail: anasashrafsadek@gmail.com",
+        "ar": "تواصل معي عبر البريد الإلكتروني: anasashrafsadek@gmail.com"
+      },
+      "icon": "mail",
+      "image": "assets/images/contact/gmail.JPG",
+      "url": "mailto:anasashrafsadek@gmail.com?subject=Professional%20Inquiry"
+    },
+    {
+      "id": "linkedin",
+      "title": {
+        "en": "LinkedIn",
+        "de": "LinkedIn",
+        "ar": "لينكدإن"
+      },
+      "description": {
+        "en": "Connect with me on LinkedIn",
+        "de": "Mit mir auf LinkedIn vernetzen",
+        "ar": "تواصل معي على لينكدإن"
+      },
+      "icon": "linkedin",
+      "image": "assets/images/contact/linked in.jpg",
+      "url": "https://www.linkedin.com/in/anas-ashraf-sadek/"
+    },
+    {
+      "id": "whatsapp",
+      "title": {
+        "en": "WhatsApp",
+        "de": "WhatsApp",
+        "ar": "واتساب"
+      },
+      "description": {
+        "en": "Reach me on WhatsApp: (+20)1091518271",
+        "de": "Erreichen Sie mich auf WhatsApp: (+20)1091518271",
+        "ar": "تواصل معي عبر واتساب: (+20)1091518271"
+      },
+      "icon": "whatsapp",
+      "image": "assets/images/contact/whats app.PNG",
+      "url": "https://wa.me/201091518271"
+    },
+    {
+      "id": "instagram",
+      "title": {
+        "en": "Instagram",
+        "de": "Instagram",
+        "ar": "إنستغرام"
+      },
+      "description": {
+        "en": "Follow me on Instagram: @anasashrafsadek",
+        "de": "Folgen Sie mir auf Instagram: @anasashrafsadek",
+        "ar": "تابعني على إنستغرام: @anasashrafsadek"
+      },
+      "icon": "instagram",
+      "image": "assets/images/contact/insta 2.png",
+      "url": "https://www.instagram.com/anasashrafsadek"
+    }
+  ]
+}

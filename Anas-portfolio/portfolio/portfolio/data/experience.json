@@ -1,0 +1,195 @@
+{
+  "items": [
+    {
+      "id": "company-01",
+      "title": {
+        "en": "Junior Network Engineer",
+        "de": "Junior-Netzwerkingenieur",
+        "ar": "مهندس شبكات مبتدئ"
+      },
+      "description": {
+        "en": "Worked within the IT team, participating in managing and developing network and systems infrastructure. Contributed to improving network stability, security levels, and service continuity.",
+        "de": "Im IT-Team gearbeitet, an der Verwaltung und Entwicklung der Netzwerk- und Systeminfrastruktur teilgenommen. Zur Verbesserung der Netzwerkstabilität, Sicherheitsniveaus und Servicekontinuität beigetragen.",
+        "ar": "عملت ضمن فريق تكنولوجيا المعلومات، وشاركت في إدارة وتطوير البنية التحتية للشبكات والأنظمة داخل الشركة. ساهمت في تحسين استقرار الشبكة ومستوى الأمان واستمرارية الخدمات."
+      },
+      "image": "assets/images/experience/Com 01.JPG",
+      "company": {
+        "en": "ACES Contact Center",
+        "de": "ACES Contact Center",
+        "ar": "ACES Contact Center"
+      },
+      "period": {
+        "en": "October 2025 – July 2026",
+        "de": "Oktober 2025 – Juli 2026",
+        "ar": "أكتوبر 2025 – يوليو 2026"
+      },
+      "location": {
+        "en": "Egypt",
+        "de": "Ägypten",
+        "ar": "مصر"
+      },
+      "type": {
+        "en": "Full-Time",
+        "de": "Vollzeit",
+        "ar": "دوام كامل"
+      },
+      "details": [
+        {
+          "en": "Managing Cisco Routers & Switches, configuring VLANs, Routing, ACLs, and STP",
+          "de": "Verwaltung von Cisco Routern & Switches, Konfiguration von VLANs, Routing, ACLs und STP",
+          "ar": "إدارة أجهزة Cisco Routers & Switches وإعداد VLANs وRouting وACLs وSTP"
+        },
+        {
+          "en": "Configuring and managing Sophos Firewall, SD-WAN, NAT, IPS/IDS, and VPN",
+          "de": "Konfiguration und Verwaltung von Sophos Firewall, SD-WAN, NAT, IPS/IDS und VPN",
+          "ar": "إعداد وإدارة Sophos Firewall وحلول SD-WAN وNAT وIPS/IDS وVPN"
+        },
+        {
+          "en": "Managing Windows Server, Active Directory, Group Policy, DNS, and DHCP",
+          "de": "Verwaltung von Windows Server, Active Directory, Gruppenrichtlinie, DNS und DHCP",
+          "ar": "إدارة Windows Server وخدمات Active Directory وGroup Policy وDNS وDHCP"
+        },
+        {
+          "en": "Supporting VoIP communications infrastructure and troubleshooting connectivity issues",
+          "de": "Unterstützung der VoIP-Kommunikationsinfrastruktur und Fehlerbehebung bei Verbindungsproblemen",
+          "ar": "دعم البنية التحتية للاتصالات VoIP ومعالجة مشكلات الاتصال"
+        },
+        {
+          "en": "Monitoring and maintaining the network, supporting over 60 users",
+          "de": "Überwachung und Wartung des Netzwerks, Unterstützung von über 60 Benutzern",
+          "ar": "مراقبة وصيانة الشبكة ودعم أكثر من 60 مستخدمًا"
+        },
+        {
+          "en": "Managing backup operations and automating some tasks using Python",
+          "de": "Verwaltung von Backup-Operationen und Automatisierung einiger Aufgaben mit Python",
+          "ar": "إدارة عمليات النسخ الاحتياطي وأتمتة بعض المهام باستخدام Python"
+        }
+      ],
+      "tags": [
+        {
+          "en": "Cisco",
+          "de": "Cisco",
+          "ar": "Cisco"
+        },
+        {
+          "en": "Sophos Firewall",
+          "de": "Sophos Firewall",
+          "ar": "Sophos Firewall"
+        },
+        {
+          "en": "Windows Server",
+          "de": "Windows Server",
+          "ar": "Windows Server"
+        },
+        {
+          "en": "Active Directory",
+          "de": "Active Directory",
+          "ar": "Active Directory"
+        },
+        {
+          "en": "Python",
+          "de": "Python",
+          "ar": "Python"
+        }
+      ]
+    },
+    {
+      "id": "company-02",
+      "title": {
+        "en": "Infrastructure & Security Deployment",
+        "de": "Infrastruktur- & Sicherheitsbereitstellung",
+        "ar": "نشر البنية التحتية والأمن"
+      },
+      "description": {
+        "en": "Working on supporting and managing IT infrastructure, participating in implementing and developing systems and networks. Handling technical issues to ensure service continuity and operational processes.",
+        "de": "An der Unterstützung und Verwaltung der IT-Infrastruktur gearbeitet, an der Implementierung und Entwicklung von Systemen und Netzwerken teilgenommen. Technische Probleme bearbeitet, um Servicekontinuität und Betriebsprozesse zu gewährleisten.",
+        "ar": "أعمل على دعم وإدارة البنية التحتية لتكنولوجيا المعلومات، والمشاركة في تنفيذ وتطوير الأنظمة والشبكات. معالجة المشكلات التقنية لضمان استمرارية الخدمات والعمليات التشغيلية."
+      },
+      "image": "assets/images/experience/Com 02.JPG",
+      "company": {
+        "en": "Ocean Air Travel",
+        "de": "Ocean Air Travel",
+        "ar": "Ocean Air Travel"
+      },
+      "period": {
+        "en": "July 2026 – Present",
+        "de": "Juli 2026 – Gegenwart",
+        "ar": "يوليو 2026 – الحاضر"
+      },
+      "location": {
+        "en": "Egypt",
+        "de": "Ägypten",
+        "ar": "مصر"
+      },
+      "type": {
+        "en": "Full-Time",
+        "de": "Vollzeit",
+        "ar": "دوام كامل"
+      },
+      "details": [
+        {
+          "en": "Managing IT infrastructure, data center operations, and devices",
+          "de": "Verwaltung der IT-Infrastruktur, Rechenzentrumsoperationen und Geräte",
+          "ar": "إدارة البنية التحتية لتكنولوجيا المعلومات وعمليات مركز البيانات والأجهزة"
+        },
+        {
+          "en": "Supporting and managing internal LAN networks, VLANs, Routers, and Switches",
+          "de": "Unterstützung und Verwaltung interner LAN-Netzwerke, VLANs, Router und Switches",
+          "ar": "دعم وإدارة الشبكات الداخلية LAN وVLANs وأجهزة Routers وSwitches"
+        },
+        {
+          "en": "Handling DHCP, DNS services, and network infrastructure",
+          "de": "Verwaltung von DHCP-, DNS-Diensten und Netzwerkinfrastruktur",
+          "ar": "التعامل مع خدمات DHCP وDNS والبنية التحتية للشبكات"
+        },
+        {
+          "en": "Supporting Site-to-Site VPN connection between Egypt and Dubai",
+          "de": "Unterstützung der Site-to-Site-VPN-Verbindung zwischen Ägypten und Dubai",
+          "ar": "دعم اتصال Site-to-Site VPN بين مصر ودبي"
+        },
+        {
+          "en": "Participating in deploying and configuring 3CX IP PBX and managing VoIP services",
+          "de": "Teilnahme an der Bereitstellung und Konfiguration von 3CX IP PBX und Verwaltung von VoIP-Diensten",
+          "ar": "المشاركة في نشر وإعداد نظام 3CX IP PBX وإدارة خدمات VoIP"
+        },
+        {
+          "en": "Providing technical support for servers, network devices, workstations, and business applications",
+          "de": "Technischer Support für Server, Netzwerkgeräte, Workstations und Geschäftsanwendungen",
+          "ar": "تقديم الدعم الفني للخوادم وأجهزة الشبكات ومحطات العمل وتطبيقات الأعمال"
+        },
+        {
+          "en": "Participating in preparing infrastructure for branches and system relocation and reorganization",
+          "de": "Teilnahme an der Vorbereitung der Infrastruktur für Filialen und Systemumzug und -neuorganisation",
+          "ar": "المشاركة في تجهيز البنية التحتية للفروع وأعمال نقل وإعادة تنظيم الأنظمة"
+        }
+      ],
+      "tags": [
+        {
+          "en": "Network Infrastructure",
+          "de": "Netzwerkinfrastruktur",
+          "ar": "البنية التحتية للشبكات"
+        },
+        {
+          "en": "VPN",
+          "de": "VPN",
+          "ar": "VPN"
+        },
+        {
+          "en": "3CX IP PBX",
+          "de": "3CX IP PBX",
+          "ar": "3CX IP PBX"
+        },
+        {
+          "en": "VoIP",
+          "de": "VoIP",
+          "ar": "VoIP"
+        },
+        {
+          "en": "IT Support",
+          "de": "IT-Support",
+          "ar": "الدعم الفني"
+        }
+      ]
+    }
+  ]
+}

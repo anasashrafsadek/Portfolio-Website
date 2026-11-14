@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "tryhackme",
+      "title": {
+        "en": "TryHackMe Cybersecurity Training",
+        "de": "TryHackMe Cybersicherheitsausbildung",
+        "ar": "التدريب على الأمن السيبراني عبر TryHackMe"
+      },
+      "description": {
+        "en": "Used TryHackMe platform to develop skills through practical training and solving cybersecurity challenges. Achieved top 10% ranking, completed 51 practical rooms, earned 10 achievement badges, maintained a 130-day learning streak, and completed the Network Security Learning Path.",
+        "de": "TryHackMe-Plattform verwendet, um Fähigkeiten durch praktische Ausbildung und Lösung von Cybersicherheits-Herausforderungen zu entwickeln. Top 10% Ranking erreicht, 51 praktische Räume abgeschlossen, 10 Erfolgsabzeichen verdient, 130-tägige Lernserie aufrechterhalten und Network Security Learning Path abgeschlossen.",
+        "ar": "استخدمت منصة TryHackMe لتطوير مهاراتي من خلال التدريب العملي وحل تحديات الأمن السيبراني. حققت الوصول إلى مستوى ضمن أفضل 10% من مستخدمي المنصة، وأتممت 51 غرفة تدريبية عملية، وحصلت على 10 شارات إنجاز، وحافظت على سلسلة تعلم متواصل لمدة 130 يومًا، وأتممت مسار Network Security Learning Path."
+      },
+      "image": "assets/images/training/Pre_Security Try_Hack_Me_Path.png",
+      "org": {
+        "en": "TryHackMe",
+        "de": "TryHackMe",
+        "ar": "TryHackMe"
+      },
+      "tags": [
+        {
+          "en": "Top 10% Ranking",
+          "de": "Top 10% Ranking",
+          "ar": "أفضل 10%"
+        },
+        {
+          "en": "51 Rooms Completed",
+          "de": "51 Räume abgeschlossen",
+          "ar": "51 غرفة مكتملة"
+        },
+        {
+          "en": "10 Achievement Badges",
+          "de": "10 Erfolgsabzeichen",
+          "ar": "10 شارات إنجاز"
+        },
+        {
+          "en": "130-Day Streak",
+          "de": "130-Tage-Serie",
+          "ar": "سلسلة 130 يوم"
+        },
+        {
+          "en": "Network Security Path",
+          "de": "Netzwerksicherheits-Pfad",
+          "ar": "مسار أمن الشبكات"
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "ctf",
+      "title": {
+        "en": "Capture The Flag (CTF) Competitions",
+        "de": "Capture The Flag (CTF) Wettbewerbe",
+        "ar": "مسابقات Capture The Flag (CTF)"
+      },
+      "description": {
+        "en": "Participated in two specialized CTF competitions, which are technical competitions based on discovering vulnerabilities, analyzing systems, and solving practical challenges in cybersecurity and networks. Achieved 2nd place in the local competition.",
+        "de": "An zwei spezialisierten CTF-Wettbewerben teilgenommen, die technische Wettbewerbe sind, die auf dem Entdecken von Schwachstellen, der Analyse von Systemen und der Lösung praktischer Herausforderungen in Cybersicherheit und Netzwerken basieren. 2. Platz im lokalen Wettbewerb erreicht.",
+        "ar": "شاركت في مسابقتين متخصصتين في مجال Capture The Flag (CTF)، وهي منافسات تقنية تعتمد على اكتشاف الثغرات، وتحليل الأنظمة، وحل تحديات عملية في الأمن السيبراني والشبكات. حققت المركز الثاني في المنافسة المحلية."
+      },
+      "image": "assets/images/training/CTF.JPEG",
+      "org": {
+        "en": "Various Competitions",
+        "de": "Verschiedene Wettbewerbe",
+        "ar": "مسابقات مختلفة"
+      },
+      "tags": [
+        {
+          "en": "Vulnerability Discovery",
+          "de": "Schwachstellen-Erkennung",
+          "ar": "اكتشاف الثغرات"
+        },
+        {
+          "en": "System Analysis",
+          "de": "Systemanalyse",
+          "ar": "تحليل الأنظمة"
+        },
+        {
+          "en": "2nd Place (Local)",
+          "de": "2. Platz (Lokal)",
+          "ar": "المركز الثاني (محلي)"
+        }
+      ],
+      "links": []
+    }
+  ]
+}

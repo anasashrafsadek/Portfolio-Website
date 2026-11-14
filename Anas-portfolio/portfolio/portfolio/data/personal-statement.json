@@ -1,0 +1,18 @@
+{
+  "image": "assets/images/personal-statement/PERSONAL.JPEG",
+  "heading": {
+    "en": "Personal Vision",
+    "de": "Persönliche Vision",
+    "ar": "الرؤية الشخصية"
+  },
+  "text": {
+    "en": "I am committed to continuous learning and professional development in the fields of cybersecurity, network infrastructure, and information security. My goal is to leverage my academic background, practical experience, and certifications to contribute to securing digital environments and protecting organizational assets. I aim to expand my expertise in advanced security domains, pursue specialized certifications, and take on challenging roles that allow me to make meaningful contributions to cybersecurity initiatives.",
+    "de": "Ich bin engagiert für kontinuierliches Lernen und berufliche Entwicklung in den Bereichen Cybersicherheit, Netzwerkinfrastruktur und Informationssicherheit. Mein Ziel ist es, meinen akademischen Hintergrund, meine praktische Erfahrung und meine Zertifizierungen zu nutzen, um zur Sicherung digitaler Umgebungen und zum Schutz von Organisationsvermögenswerten beizutragen. Ich strebe danach, meine Expertise in fortgeschrittenen Sicherheitsbereichen zu erweitern, spezialisierte Zertifizierungen zu verfolgen und herausfordernde Rollen zu übernehmen, die es mir ermöglichen, sinnvolle Beiträge zu Cybersicherheitsinitiativen zu leisten.",
+    "ar": "أنا ملتزم بالتعلم المستمر والتطوير المهني في مجالات الأمن السيبراني والبنية التحتية للشبكات وأمن المعلومات. هدفي هو توظيف خلفيتي الأكاديمية وخبرتي العملية وشهاداتي للمساهمة في تأمين البيئات الرقمية وحماية أصول المؤسسات. أسعى لتوسيع خبرتي في مجالات الأمن المتقدمة، ومتابعة الشهادات المتخصصة، وتولي أدوار تحدي تتيح لي المساهمة بشكل ذكي في مبادرات الأمن السيبراني."
+  },
+  "quote": {
+    "en": "Continuous learning is the key to staying ahead in the ever-evolving field of cybersecurity.",
+    "de": "Kontinuierliches Lernen ist der Schlüssel, um in dem sich ständig weiterentwickelnden Bereich der Cybersicherheit vorn zu bleiben.",
+    "ar": "التعلم المستمر هو مفتاح التقدم في مجال الأمن السيبراني المتطور باستمرار."
+  }
+}

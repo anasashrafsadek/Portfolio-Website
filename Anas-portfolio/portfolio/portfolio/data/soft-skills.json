@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "title": {
+        "en": "Team Collaboration",
+        "de": "Teamarbeit",
+        "ar": "العمل الجماعي"
+      },
+      "description": {
+        "en": "Effective teamwork and collaboration in diverse environments",
+        "de": "Effektive Teamarbeit und Zusammenarbeit in vielfältigen Umgebungen",
+        "ar": "العمل الفعال ضمن فرق متنوعة"
+      }
+    },
+    {
+      "title": {
+        "en": "Problem Solving",
+        "de": "Problemlösung",
+        "ar": "حل المشكلات"
+      },
+      "description": {
+        "en": "Analytical approach to identifying and resolving technical issues",
+        "de": "Analytischer Ansatz zur Identifizierung und Lösung technischer Probleme",
+        "ar": "النهج التحليلي لتحديد وحل المشكلات التقنية"
+      }
+    },
+    {
+      "title": {
+        "en": "Communication",
+        "de": "Kommunikation",
+        "ar": "التواصل"
+      },
+      "description": {
+        "en": "Clear verbal and written communication in both English and Arabic",
+        "de": "Klare mündliche und schriftliche Kommunikation sowohl auf Englisch als auch auf Arabisch",
+        "ar": "تواصل واضح شفهيًا وكتابيًا باللغتين الإنجليزية والعربية"
+      }
+    },
+    {
+      "title": {
+        "en": "Time Management",
+        "de": "Zeitmanagement",
+        "ar": "إدارة الوقت"
+      },
+      "description": {
+        "en": "Efficient prioritization and task management",
+        "de": "Effiziente Priorisierung und Aufgabenverwaltung",
+        "ar": "تحديد الأولويات الفعالة وإدارة المهام"
+      }
+    },
+    {
+      "title": {
+        "en": "Adaptability",
+        "de": "Anpassungsfähigkeit",
+        "ar": "التكيف"
+      },
+      "description": {
+        "en": "Quick adaptation to new technologies and environments",
+        "de": "Schnelle Anpassung an neue Technologien und Umgebungen",
+        "ar": "التكيف السريع مع التقنيات والبيئات الجديدة"
+      }
+    },
+    {
+      "title": {
+        "en": "Continuous Learning",
+        "de": "Kontinuierliches Lernen",
+        "ar": "التعلم المستمر"
+      },
+      "description": {
+        "en": "Commitment to ongoing professional development and skill enhancement",
+        "de": "Engagement für kontinuierliche berufliche Entwicklung und Kompetenzverbesserung",
+        "ar": "الالتزام بالتطوير المهني المستمر وتحسين المهارات"
+      }
+    },
+    {
+      "title": {
+        "en": "Leadership",
+        "de": "Führung",
+        "ar": "القيادة"
+      },
+      "description": {
+        "en": "Experience leading teams and organizing events",
+        "de": "Erfahrung in der Führung von Teams und Organisation von Veranstaltungen",
+        "ar": "خبرة في قيادة الفرق وتنظيم الفعاليات"
+      }
+    },
+    {
+      "title": {
+        "en": "Attention to Detail",
+        "de": "Aufmerksamkeit für Details",
+        "ar": "الاهتمام بالتفاصيل"
+      },
+      "description": {
+        "en": "Thorough approach to technical configurations and security implementations",
+        "de": "Gründlicher Ansatz bei technischen Konfigurationen und Sicherheitsimplementierungen",
+        "ar": "النهج الشامل في التكوينات التقنية وتنفيذات الأمن"
+      }
+    }
+  ]
+}

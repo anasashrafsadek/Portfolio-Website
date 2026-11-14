@@ -1,0 +1,95 @@
+{
+  "faqs": [
+    {
+      "id": "faq-01",
+      "question": {
+        "en": "Are the information and certifications mentioned on this website authentic and verifiable?",
+        "de": "Sind die auf dieser Website genannten Informationen und Zertifikate authentisch und überprüfbar?",
+        "ar": "هل المعلومات والشهادات المذكورة في هذا الموقع حقيقية وقابلة للتحقق؟"
+      },
+      "answer": {
+        "en": "All information, qualifications, and achievements presented on this website are genuine and supported by available documents and evidence. Supporting proof can be provided upon request.",
+        "de": "Alle auf dieser Website dargestellten Informationen, Qualifikationen und Errungenschaften sind echt und durch verfügbare Unterlagen und Nachweise belegt. Unterstützende Nachweise können auf Anfrage zur Verfügung gestellt werden.",
+        "ar": "جميع المعلومات والمؤهلات والإنجازات المقدمة في هذا الموقع حقيقية ومدعومة بالوثائق والأدلة المتاحة. يمكن تقديم الأدلة الداعمة عند الطلب."
+      }
+    },
+    {
+      "id": "faq-02",
+      "question": {
+        "en": "Are the certificates and official documents legally authenticated?",
+        "de": "Sind die Zertifikate und offiziellen Dokumente rechtlich beglaubigt?",
+        "ar": "هل الشهادات والمستندات الرسمية مصادق عليها قانونياً؟"
+      },
+      "answer": {
+        "en": "Official documents eligible for authentication have been processed according to the applicable procedures of the relevant authorities in the United Kingdom and the Arab Republic of Egypt, depending on the nature of each document.",
+        "de": "Offizielle Dokumente, die für eine Beglaubigung in Frage kommen, wurden gemäß den geltenden Verfahren der zuständigen Behörden im Vereinigten Königreich und der Arabischen Republik Ägypten bearbeitet, je nach Art des jeweiligen Dokuments.",
+        "ar": "تمت معالجة المستندات الرسمية المؤهلة للمصادقة وفق الإجراءات المعمول بها لدى السلطات المختصة في المملكة المتحدة وجمهورية مصر العربية، حسب طبيعة كل مستند."
+      }
+    },
+    {
+      "id": "faq-03",
+      "question": {
+        "en": "Are the photographs used on this website authentic?",
+        "de": "Sind die auf dieser Website verwendeten Fotos authentisch?",
+        "ar": "هل الصور المستخدمة في هذا الموقع حقيقية؟"
+      },
+      "answer": {
+        "en": "All personal photographs and images documenting my activities and experiences are genuine photographs taken by me. They are not copied from the internet or AI-generated.",
+        "de": "Alle persönlichen Fotos und Bilder, die meine Aktivitäten und Erfahrungen dokumentieren, sind echte Fotos, die von mir aufgenommen wurden. Sie wurden nicht aus dem Internet kopiert oder von KI generiert.",
+        "ar": "جميع الصور الشخصية والصور التي توثق أنشطتي وتجاربي هي صور حقيقية التقطتها بنفسي. لم يتم نسخها من الإنترنت أو توليدها بالذكاء الاصطناعي."
+      }
+    },
+    {
+      "id": "faq-04",
+      "question": {
+        "en": "Can supporting evidence for the information presented on this website be provided?",
+        "de": "Kann unterstützende Nachweise für die auf dieser Website dargestellten Informationen bereitgestellt werden?",
+        "ar": "هل يمكن تقديم أدلة داعمة للمعلومات المقدمة في هذا الموقع؟"
+      },
+      "answer": {
+        "en": "Yes. Supporting documents and evidence can be provided upon request, except for certain details concerning projects implemented within companies, which remain confidential in accordance with company policies and Non-Disclosure Agreements (NDAs).",
+        "de": "Ja. Unterstützende Dokumente und Nachweise können auf Anfrage bereitgestellt werden, mit Ausnahme bestimmter Details zu Projekten, die innerhalb von Unternehmen implementiert wurden, die gemäß den Unternehmensrichtlinien und Vertraulichkeitsvereinbarungen (NDAs) vertraulich bleiben.",
+        "ar": "نعم. يمكن تقديم المستندات والأدلة الداعمة عند الطلب، باستثناء بعض التفاصيل المتعلقة بالمشاريع المنفذة داخل الشركات، والتي تظل سرية وفقاً لسياسات الشركات واتفاقيات عدم الإفصاح (NDAs)."
+      }
+    },
+    {
+      "id": "faq-05",
+      "question": {
+        "en": "What is my military service status?",
+        "de": "Wie ist mein militärischer Dienststatus?",
+        "ar": "ما هو وضعي في الخدمة العسكرية؟"
+      },
+      "answer": {
+        "en": "I have received a full and permanent exemption from military service in Egypt. Official documentation confirming this status can be provided when required.",
+        "de": "Ich habe eine vollständige und dauerhafte Befreiung vom Militärdienst in Ägypten erhalten. Offizielle Dokumente, die diesen Status bestätigen, können bei Bedarf bereitgestellt werden.",
+        "ar": "حصلت على إعفاء كامل ودائم من الخدمة العسكرية في مصر. يمكن تقديم المستندات الرسمية التي تؤكد هذا الوضع عند الحاجة."
+      }
+    },
+    {
+      "id": "faq-06",
+      "question": {
+        "en": "Am I eligible to travel and work internationally?",
+        "de": "Bin ich berechtigt, international zu reisen und zu arbeiten?",
+        "ar": "هل أنا مؤهل للسفر والعمل دولياً؟"
+      },
+      "answer": {
+        "en": "I have a legal status that permits me to travel internationally. I am also financially capable of covering the necessary relocation and accommodation expenses, with the possibility of receiving support from hosting organizations or institutions when available.",
+        "de": "Ich habe einen rechtlichen Status, der es mir ermöglicht, international zu reisen. Ich bin auch finanziell in der Lage, die notwendigen Umzugs- und Unterkunftskosten zu decken, mit der Möglichkeit, Unterstützung von gastgebenden Organisationen oder Institutionen zu erhalten, wenn diese verfügbar ist.",
+        "ar": "لدي وضع قانوني يسمح لي بالسفر دولياً. أنا أيضاً قادر مالياً على تغطية نفقات الانتقال والإقامة اللازمة، مع إمكانية الحصول على دعم من المنظمات أو المؤسسات المضيفة عند توفرها."
+      }
+    },
+    {
+      "id": "faq-07",
+      "question": {
+        "en": "Was artificial intelligence used in developing this website?",
+        "de": "Wurde künstliche Intelligenz bei der Entwicklung dieser Website verwendet?",
+        "ar": "هل تم استخدام الذكاء الاصطناعي في تطوير هذا الموقع؟"
+      },
+      "answer": {
+        "en": "AI tools were utilized during certain stages of planning, development, and website creation. However, all personal information, professional experiences, achievements, and presented content remain authentic and based on my actual background.",
+        "de": "KI-Tools wurden in bestimmten Phasen der Planung, Entwicklung und Erstellung der Website eingesetzt. Alle persönlichen Informationen, beruflichen Erfahrungen, Errungenschaften und dargestellten Inhalte bleiben jedoch authentisch und basieren auf meinem tatsächlichen Hintergrund.",
+        "ar": "تم استخدام أدوات الذكاء الاصطناعي في مراحل معينة من التخطيط والتطوير وإنشاء الموقع. ومع ذلك، تظل جميع المعلومات الشخصية والخبرات المهنية والإنجازات والمحتوى المقدم حقيقية ومبنية على خلفيتي الفعلية."
+      }
+    }
+  ]
+}

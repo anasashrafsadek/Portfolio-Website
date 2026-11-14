@@ -1,0 +1,65 @@
+{
+  "name": {
+    "en": "Anas Ashraf",
+    "de": "Anas Ashraf",
+    "ar": "أنس أشرف"
+  },
+  "headline": {
+    "en": "Networks & Cybersecurity Graduate",
+    "de": "Absolvent für Netzwerke & Cybersicherheit",
+    "ar": "خريج شبكات وأمن سبراني"
+  },
+  "intro": {
+    "en": "Networks and Cybersecurity graduate with a BSc from The Open University (UK) through the Arab Open University partnership. Committed to continuous learning and professional development in cybersecurity, network infrastructure, and information security.",
+    "de": "Absolvent für Netzwerke und Cybersicherheit mit einem BSc von The Open University (UK) durch die Partnerschaft mit der Arab Open University. Engagiert für kontinuierliches Lernen und berufliche Entwicklung in Cybersicherheit, Netzwerkinfrastruktur und Informationssicherheit.",
+    "ar": "خريج شبكات وأمن سبراني، حاصل على درجة البكالوريوس من جامعة The Open University البريطانية من خلال برنامج أكاديمي قائم على شراكة مع الجامعة العربية المفتوحة. ملتزم بالتعلم المستمر والتطوير المهني في مجالات الأمن السيبراني والبنية التحتية للشبكات وأمن المعلومات."
+  },
+  "about": {
+    "en": "I am Anas Ashraf, a Networks and Cybersecurity graduate with a BSc from The Open University (UK) through the Arab Open University partnership. During my academic journey, I went beyond theoretical studies by actively participating in student activities, organizing and attending events and conferences, and competing in field-related competitions. This helped me gain experience, build relationships, and develop my skills before graduation. Alongside my studies, I focused on professional development through obtaining specialized certifications and courses, working on various projects, and gaining practical experience by working with several companies and institutions. I believe that continuous learning and development are essential parts of success, which is why I constantly strive to expand my experience, explore new challenges, and enhance my capabilities both academically and professionally.",
+    "de": "Ich bin Anas Ashraf, ein Absolvent für Netzwerke und Cybersicherheit mit einem BSc von The Open University (UK) durch die Partnerschaft mit der Arab Open University. Während meiner akademischen Laufbahn ging ich über theoretische Studien hinaus, indem ich aktiv an Studentenaktivitäten teilnahm, Veranstaltungen und Konferenzen organisierte und besuchte und an fachspezifischen Wettbewerben teilnahm. Dies half mir, Erfahrungen zu sammeln, Beziehungen aufzubauen und meine Fähigkeiten vor dem Abschluss zu entwickeln. Neben meinem Studium konzentrierte ich mich auf die berufliche Entwicklung durch den Erwerb spezialisierter Zertifizierungen und Kurse, die Arbeit an verschiedenen Projekten und die Gewinnung praktischer Erfahrungen durch die Arbeit mit mehreren Unternehmen und Institutionen. Ich glaube, dass kontinuierliches Lernen und Entwicklung wesentliche Teile des Erfolgs sind, weshalb ich ständig danach strebe, meine Erfahrungen zu erweitern, neue Herausforderungen zu erkunden und meine Fähigkeiten sowohl akademisch als auch beruflich zu verbessern.",
+    "ar": "أنا أنس أشرف، خريج شبكات وأمن سبراني، وحاصل على درجة البكالوريوس من الجامعة المفتوحة ببريطانيا، من خلال برنامج أكاديمي قائم على شراكة بين الجامعة العربية المفتوحة. خلال رحلتي الدراسية، حرصت إني ما اكتفيش بالدراسة الأكاديمية بس، لكن اهتميت كمان بالمشاركة في الأنشطة الطلابية، وتنظيم وحضور الفعاليات والمؤتمرات، والمشاركة في المسابقات المرتبطة بمجالي، وده ساعدني أكتسب خبرات وعلاقات وأطور من مهاراتي قبل التخرج. وبجانب دراستي، اهتميت بالتطوير المهني من خلال الحصول على مجموعة من الشهادات والكورسات المتخصصة، والعمل على مشاريع مختلفة، بالإضافة إلى اكتساب خبرة عملية من خلال العمل في عدد من الشركات والمؤسسات. أنا مؤمن إن التعلم والتطوير المستمر جزء أساسي من النجاح، وعشان كده دايمًا بحاول أوسع خبراتي، وأخوض تجارب جديدة، وأطور من قدراتي سواء على المستوى الأكاديمي أو المهني، وبتطلع لفرص جديدة تساعدني أوصل لأهدافي وأحقق طموحاتي المستقبلية."
+  },
+  "location": {
+    "en": "Egypt",
+    "de": "Ägypten",
+    "ar": "مصر"
+  },
+  "image": "assets/images/profile/Photo ID.jpg",
+  "cv": {
+    "label": {
+      "en": "Download CV",
+      "de": "Lebenslauf herunterladen",
+      "ar": "تحميل السيرة الذاتية"
+    },
+    "url": ""
+  },
+  "socials": [
+    {
+      "label": {
+        "en": "LinkedIn",
+        "de": "LinkedIn",
+        "ar": "لينكدإن"
+      },
+      "url": "",
+      "icon": "linkedin"
+    },
+    {
+      "label": {
+        "en": "Email",
+        "de": "E-Mail",
+        "ar": "البريد"
+      },
+      "url": "",
+      "icon": "mail"
+    },
+    {
+      "label": {
+        "en": "WhatsApp",
+        "de": "WhatsApp",
+        "ar": "واتساب"
+      },
+      "url": "",
+      "icon": "whatsapp"
+    }
+  ]
+}

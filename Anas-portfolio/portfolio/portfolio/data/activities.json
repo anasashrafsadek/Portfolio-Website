@@ -1,0 +1,112 @@
+{
+  "activities": [
+    {
+      "id": "activity-01",
+      "title": {
+        "en": "Microsoft Student Club - Security Team",
+        "de": "Microsoft Student Club - Sicherheitsteam",
+        "ar": "نادي طلاب مايكروسوفت - فريق الأمن السيبراني"
+      },
+      "description": {
+        "en": "Participated for 1.5 years as a member of the Security Team and as an Instructor, providing tutorials for students in networking and cybersecurity subjects, contributing to knowledge transfer and simplifying specialized concepts.",
+        "de": "1,5 Jahre als Mitglied des Sicherheitsteams und als Ausbilder teilgenommen, Tutorials für Studenten in Netzwerk- und Cybersicherheitsfächern angeboten, zur Wissensübertragung beigetragen und spezialisierte Konzepte vereinfacht.",
+        "ar": "شاركت لمدة عام ونصف كعضو في فريق الأمن السيبراني وكمدرب، حيث قدمت شروحات للطلاب في مواد الشبكات والأمن السيبراني، وساهمت في نقل المعرفة التقنية وتبسيط المفاهيم المتخصصة."
+      },
+      "image": "assets/images/activities/Micro Activety.png",
+      "org": {
+        "en": "Arab Open University",
+        "de": "Arab Open University",
+        "ar": "الجامعة العربية المفتوحة"
+      },
+      "role": {
+        "en": "Security Team Member & Instructor",
+        "de": "Mitglied des Sicherheitsteams & Ausbilder",
+        "ar": "عضو فريق الأمن السيبراني ومدرب"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    },
+    {
+      "id": "activity-02",
+      "title": {
+        "en": "Academic Research Participation",
+        "de": "Teilnahme an akademischer Forschung",
+        "ar": "المشاركة في الأبحاث الأكاديمية"
+      },
+      "description": {
+        "en": "Participated with faculty members in developing research related to master's theses, including an applied research in cryptography systems focusing on developing an encryption method combining strength and ease of use.",
+        "de": "Mit Fakultätsmitgliedern an der Entwicklung von Forschung im Zusammenhang mit Masterarbeiten teilgenommen, einschließlich einer angewandten Forschung in Kryptographiesystemen mit dem Fokus auf die Entwicklung einer Verschlüsselungsmethode, die Stärke und Benutzerfreundlichkeit kombiniert.",
+        "ar": "شاركت مع عدد من أعضاء هيئة التدريس في تطوير أبحاث مرتبطة برسائل الماجستير، ومن أبرزها المشاركة في بحث تطبيقي بمجال أنظمة التشفير، تناول تطوير وسيلة تشفير تجمع بين القوة وسهولة الاستخدام."
+      },
+      "image": "assets/images/activities/Activity 2.jpg",
+      "org": {
+        "en": "Arab Open University",
+        "de": "Arab Open University",
+        "ar": "الجامعة العربية المفتوحة"
+      },
+      "role": {
+        "en": "Research Assistant",
+        "de": "Forschungsassistent",
+        "ar": "مساعد باحث"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "event-01",
+      "title": {
+        "en": "Micro Bond",
+        "de": "Micro Bond",
+        "ar": "Micro Bond"
+      },
+      "description": {
+        "en": "Organized a specialized cybersecurity event. Responsibilities included coordination with sponsors, finalizing sponsorship agreements with 3 organizations, and coordinating with 5 event speakers.",
+        "de": "Eine spezialisierte Cybersicherheitsveranstaltung organisiert. Zu den Verantwortlichkeiten gehörten die Koordination mit Sponsoren, der Abschluss von Sponsoringverträgen mit 3 Organisationen und die Koordination mit 5 Veranstaltungsrednern.",
+        "ar": "شاركت كمنظم أساسي في فعالية متخصصة في الأمن السيبراني. شملت مسؤولياتي التنسيق مع الجهات الراعية، والمساهمة في إتمام اتفاقيات رعاية مع 3 جهات، بالإضافة إلى التنسيق مع 5 متحدثين للمشاركة في الفعالية."
+      },
+      "image": "assets/images/events/event 1 edet 1.JPEG",
+      "role": {
+        "en": "Main Organizer",
+        "de": "Hauptorganisator",
+        "ar": "منظم أساسي"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    },
+    {
+      "id": "event-02",
+      "title": {
+        "en": "Tec-Tank",
+        "de": "Tec-Tank",
+        "ar": "Tec-Tank"
+      },
+      "description": {
+        "en": "Organized a specialized cybersecurity event. Responsibilities included coordination with sponsors, finalizing sponsorship agreements, and coordinating with event speakers.",
+        "de": "Eine spezialisierte Cybersicherheitsveranstaltung organisiert. Zu den Verantwortlichkeiten gehörten die Koordination mit Sponsoren, der Abschluss von Sponsoringverträgen und die Koordination mit den Veranstaltungsrednern.",
+        "ar": "شاركت كمنظم أساسي في فعالية متخصصة في الأمن السيبراني. شملت مسؤولياتي التنسيق مع الجهات الراعية، والمساهمة في إتمام اتفاقيات رعاية، بالإضافة إلى التنسيق مع المتحدثين."
+      },
+      "image": "assets/images/events/event 2.PNG",
+      "role": {
+        "en": "Main Organizer",
+        "de": "Hauptorganisator",
+        "ar": "منظم أساسي"
+      },
+      "date": {
+        "en": "During studies",
+        "de": "Während des Studiums",
+        "ar": "أثناء الدراسة"
+      }
+    }
+  ]
+}
